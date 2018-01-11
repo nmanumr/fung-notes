@@ -6,8 +6,8 @@ site_url: 'https://nmanumr.github.io/entry-test-notes'
 
 # Repository
 repo_name: 'nmanumr/Fung-notes'
-repo_url: 'https://www.github.com/nmanumr/nmanumr.github.io'
-# edit_uri: 'blob/master/entry-test-notes/docs/'
+repo_url: 'https://github.com/nmanumr/fung-notes'
+edit_uri: 'blob/master/docs/'
 
 # Copyright
 copyright: 'Coded by Nauman Umer'
