@@ -1697,7 +1697,32 @@
         }, 
         {
             "location": "/maths/", 
-            "text": "01 - Number System\n\n\n \n02 - Set, Functions \n Groups\n (In progress)\n\n\n \n03 - Matrices \n Determinants\n (Not Started)\n\n\n \n04 - Quadratic Equations\n (Not Started)\n\n\n \n05 - Partial Fraction\n\n\n \n06 - Sequence \n Series\n\n\n \n07 - Permutation, Combination \n Probability\n\n\n \n08 - Binomial Theorem\n\n\n \n09 - Fundamentals of Trigonometry\n (Not Started)\n\n\n \n10 - Trigonometric Identities\n (Not Started)\n\n\n \n11 - Trigonometric Function\n (Not Started)\n\n\n \n12 - Application of Trigonometry\n (Not Started)\n\n\n \n13 - Inverse Trigonometric Functions\n (Not Started)\n\n\n \n14 - Trigonometric Equations\n (Not Started)\n\n\n \n15 - Functions \n Limits\n\n\n \n16 - Differentiation\n\n\n \n17 - Integration\n (In progress)\n\n\n \n18 - Analytical Geometry\n (Not Started)\n\n\n \n19 - Linear Inequalities\n\n\n \n20 - Conic Sections\n (Almost Done)\n\n\n \n21 - Vector\n (Not Started)", 
+            "text": "Mathematics\n\n\nIntroduction\n\n\nShort notes of Textbook of Algebra and Trigonometry \n Textbook of Calculus and Analytic Geometry (Mathematics FSc or HSSC), Punjab Textbook Board (PTB) Lahore. These short notes are best for Entry test preparation. It also contains some shortcut \n time saving tricks regarding solution of different problems.\n\n\nContribution\n\n\nIf you found any type of mistake including typos, wrong equations or anything wrong, feel free to either write in comments or open an issue on \nGithub repository\n\n\nAuthors\n\n\nThis document in provided by \naideservices.org\n. The authors of this document are:\n\n\n\n\nTalha Syed Naqvi\n\n\nMuhammah Talha Nouman\n\n\nMirza Husnain\n\n\n\n\nI just rewritten the document and one of the editors of it.\n\n\nIndex\n\n\nThe whole documents is divided in 21 different chapters, listed below:\n\n\n\n\n \n01 - Number System\n\n\n \n02 - Set, Functions \n Groups\n (In progress)\n\n\n \n03 - Matrices \n Determinants\n (Not Started)\n\n\n \n04 - Quadratic Equations\n (Not Started)\n\n\n \n05 - Partial Fraction\n\n\n \n06 - Sequence \n Series\n\n\n \n07 - Permutation, Combination \n Probability\n\n\n \n08 - Binomial Theorem\n\n\n \n09 - Fundamentals of Trigonometry\n (Not Started)\n\n\n \n10 - Trigonometric Identities\n (Not Started)\n\n\n \n11 - Trigonometric Function\n (Not Started)\n\n\n \n12 - Application of Trigonometry\n (Not Started)\n\n\n \n13 - Inverse Trigonometric Functions\n (Not Started)\n\n\n \n14 - Trigonometric Equations\n (Not Started)\n\n\n \n15 - Functions \n Limits\n\n\n \n16 - Differentiation\n\n\n \n17 - Integration\n (In progress)\n\n\n \n18 - Analytical Geometry\n (Not Started)\n\n\n \n19 - Linear Inequalities\n\n\n \n20 - Conic Sections\n (Almost Done)\n\n\n \n21 - Vector\n (Not Started)", 
+            "title": "Index"
+        }, 
+        {
+            "location": "/maths/#mathematics", 
+            "text": "", 
+            "title": "Mathematics"
+        }, 
+        {
+            "location": "/maths/#introduction", 
+            "text": "Short notes of Textbook of Algebra and Trigonometry   Textbook of Calculus and Analytic Geometry (Mathematics FSc or HSSC), Punjab Textbook Board (PTB) Lahore. These short notes are best for Entry test preparation. It also contains some shortcut   time saving tricks regarding solution of different problems.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/maths/#contribution", 
+            "text": "If you found any type of mistake including typos, wrong equations or anything wrong, feel free to either write in comments or open an issue on  Github repository", 
+            "title": "Contribution"
+        }, 
+        {
+            "location": "/maths/#authors", 
+            "text": "This document in provided by  aideservices.org . The authors of this document are:   Talha Syed Naqvi  Muhammah Talha Nouman  Mirza Husnain   I just rewritten the document and one of the editors of it.", 
+            "title": "Authors"
+        }, 
+        {
+            "location": "/maths/#index", 
+            "text": "The whole documents is divided in 21 different chapters, listed below:     01 - Number System    02 - Set, Functions   Groups  (In progress)    03 - Matrices   Determinants  (Not Started)    04 - Quadratic Equations  (Not Started)    05 - Partial Fraction    06 - Sequence   Series    07 - Permutation, Combination   Probability    08 - Binomial Theorem    09 - Fundamentals of Trigonometry  (Not Started)    10 - Trigonometric Identities  (Not Started)    11 - Trigonometric Function  (Not Started)    12 - Application of Trigonometry  (Not Started)    13 - Inverse Trigonometric Functions  (Not Started)    14 - Trigonometric Equations  (Not Started)    15 - Functions   Limits    16 - Differentiation    17 - Integration  (In progress)    18 - Analytical Geometry  (Not Started)    19 - Linear Inequalities    20 - Conic Sections  (Almost Done)    21 - Vector  (Not Started)", 
             "title": "Index"
         }, 
         {
@@ -2917,12 +2942,12 @@
         }, 
         {
             "location": "/iq/ch04/", 
-            "text": "Finding the missing number\n\n\nIn these questions you have to detect which operation is performed on first number to get next number, or which operation is performed on first two numbers to get 3\nrd\n number.\n\n\nYou have to search for any such operation. It can be multiplication, division, addition, a combination of two operations. In these questions you need to use ur brain. As you'll solve the questions you'll get to know about different possibilities/operations which can be performed.\n\n\nExamples\n\n\n\n\nFind the number which replaces the question mark. 1, 2, 3, 5, 8, 13,?\n\n\nFind the next term in series 1, 2, 4, 8, 16 ...\n\n\n\n\nSolutions\n\n\n\n\nTwo numbers are added to get the next number. 1+2 = 3 2 +3 =5 and so on...\n\n\n2 is multiplied to first term to get next one", 
+            "text": "Finding the missing number\n\n\nIn these questions you have to detect which operation is performed on first number to get next number, or which operation is performed on first two numbers to get 3\nrd\n number.\n\n\nYou have to search for any such operation. It can be multiplication, division, addition, a combination of two operations. In these questions you need to use your brain. As you'll solve the questions you'll get to know about different possibilities/operations which can be performed.\n\n\nExamples\n\n\n\n\nFind the number which replaces the question mark. 1, 2, 3, 5, 8, 13,?\n\n\nFind the next term in series 1, 2, 4, 8, 16 ...\n\n\n\n\nSolutions\n\n\n\n\nTwo numbers are added to get the next number. 1+2 = 3 2 +3 =5 and so on...\n\n\n2 is multiplied to first term to get next one", 
             "title": "04 - Find Missing Number"
         }, 
         {
             "location": "/iq/ch04/#finding-the-missing-number", 
-            "text": "In these questions you have to detect which operation is performed on first number to get next number, or which operation is performed on first two numbers to get 3 rd  number.  You have to search for any such operation. It can be multiplication, division, addition, a combination of two operations. In these questions you need to use ur brain. As you'll solve the questions you'll get to know about different possibilities/operations which can be performed.", 
+            "text": "In these questions you have to detect which operation is performed on first number to get next number, or which operation is performed on first two numbers to get 3 rd  number.  You have to search for any such operation. It can be multiplication, division, addition, a combination of two operations. In these questions you need to use your brain. As you'll solve the questions you'll get to know about different possibilities/operations which can be performed.", 
             "title": "Finding the missing number"
         }, 
         {
