@@ -1,0 +1,1689 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Entry Test notes for FUNG enrty test prepration">
+      
+      
+        <link rel="canonical" href="https://nmanumr.github.io/entry-test-notes/maths/ch07/">
+      
+      
+        <meta name="author" content="Nauman Umer">
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.2.0">
+    
+    
+      
+        <title>07 - Permutation, Combination & Probability - Entry Test Notes</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.5d3fffba.css">
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.css">
+    
+      <link rel="stylesheet" href="../../css/index.css">
+    
+    
+  </head>
+  
+    <body>
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448" viewBox="0 0 416 448" id="github"><path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19T128 352t-18.125-8.5-10.75-19T96 304t3.125-20.5 10.75-19T128 256t18.125 8.5 10.75 19T160 304zm160 0q0 10-3.125 20.5t-10.75 19T288 352t-18.125-8.5-10.75-19T256 304t3.125-20.5 10.75-19T288 256t18.125 8.5 10.75 19T320 304zm40 0q0-30-17.25-51T296 232q-10.25 0-48.75 5.25Q229.5 240 208 240t-39.25-2.75Q130.75 232 120 232q-29.5 0-46.75 21T56 304q0 22 8 38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0 37.25-1.75t35-7.375 30.5-15 20.25-25.75T360 304zm56-44q0 51.75-15.25 82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5T212 416q-19.5 0-35.5-.75t-36.875-3.125-38.125-7.5-34.25-12.875T37 371.5t-21.5-28.75Q0 312 0 260q0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25 30.875Q171.5 96 212 96q37 0 70 8 26.25-20.5 46.75-30.25T376 64q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34 99.5z"/></svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://nmanumr.github.io/entry-test-notes" title="Entry Test Notes" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                Entry Test Notes
+              </span>
+              <span class="md-header-nav__topic">
+                07 - Permutation, Combination & Probability
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" required placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">&#xE5CD;</button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://www.github.com/nmanumr/nmanumr.github.io" title="Go to repository" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      nmanumr/Fung-notes
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+          
+
+<div class="md-hero" data-md-component="hero">
+  <div class="md-hero__inner md-grid">
+    07 - Permutation, Combination & Probability
+  </div>
+</div>
+        
+      
+      
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." title="Home" class="md-tabs__link">
+        Home
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../physics/" title="Physics" class="md-tabs__link">
+          Physics
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../" title="Maths" class="md-tabs__link md-tabs__link--active">
+          Maths
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../comingsoon/" title="Chemistry" class="md-tabs__link">
+          Chemistry
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../comingsoon/" title="Computer" class="md-tabs__link">
+          Computer
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../iq/" title="IQ" class="md-tabs__link">
+          IQ
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <span class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </span>
+    Entry Test Notes
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://www.github.com/nmanumr/nmanumr.github.io" title="Go to repository" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      nmanumr/Fung-notes
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Physics
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Physics
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/" title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch01/" title="01 - Measurements" class="md-nav__link">
+      01 - Measurements
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch02/" title="02 - Vectors" class="md-nav__link">
+      02 - Vectors
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch03/" title="03 - Motion & Force" class="md-nav__link">
+      03 - Motion & Force
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch04/" title="04 - Work & Energy" class="md-nav__link">
+      04 - Work & Energy
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch05/" title="05 - Circular Motion" class="md-nav__link">
+      05 - Circular Motion
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch06/" title="06 - Fluid Dynamics" class="md-nav__link">
+      06 - Fluid Dynamics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch07/" title="07 - Oscillations" class="md-nav__link">
+      07 - Oscillations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch08/" title="08 - Waves" class="md-nav__link">
+      08 - Waves
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch09/" title="09 - Physical Optics" class="md-nav__link">
+      09 - Physical Optics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch10/" title="10 - Optical Instruments" class="md-nav__link">
+      10 - Optical Instruments
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch11/" title="11 - Heat and Thermodynamics" class="md-nav__link">
+      11 - Heat and Thermodynamics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch12/" title="12 - Electrostatics" class="md-nav__link">
+      12 - Electrostatics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch13/" title="13 - Current Electricity" class="md-nav__link">
+      13 - Current Electricity
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch14/" title="14 - Electromagnetism" class="md-nav__link">
+      14 - Electromagnetism
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch15/" title="15 - Electromagnetic Induction" class="md-nav__link">
+      15 - Electromagnetic Induction
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch16/" title="16 - Alternating Current" class="md-nav__link">
+      16 - Alternating Current
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch17/" title="17 - Physics of Solids" class="md-nav__link">
+      17 - Physics of Solids
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch18/" title="18 - Electronics" class="md-nav__link">
+      18 - Electronics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch19/" title="19 - Dawn of Modern Physics" class="md-nav__link">
+      19 - Dawn of Modern Physics
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch20/" title="20 - Atomic Spectra" class="md-nav__link">
+      20 - Atomic Spectra
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../physics/ch21/" title="21 - Nuclear Physics" class="md-nav__link">
+      21 - Nuclear Physics
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+    
+    <label class="md-nav__link" for="nav-3">
+      Maths
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Maths
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../" title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch01/" title="01 - Number System" class="md-nav__link">
+      01 - Number System
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch02/" title="02 - Set, Functions & Groups" class="md-nav__link">
+      02 - Set, Functions & Groups
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch03/" title="03 - Matrices & Determinants" class="md-nav__link">
+      03 - Matrices & Determinants
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch04/" title="04 - Quadratic Equations" class="md-nav__link">
+      04 - Quadratic Equations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch05/" title="05 - Partial Fraction" class="md-nav__link">
+      05 - Partial Fraction
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch06/" title="06 - Sequence & Series" class="md-nav__link">
+      06 - Sequence & Series
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        07 - Permutation, Combination & Probability
+      </label>
+    
+    <a href="./" title="07 - Permutation, Combination & Probability" class="md-nav__link md-nav__link--active">
+      07 - Permutation, Combination & Probability
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#factorial-notation" title="Factorial Notation" class="md-nav__link">
+    Factorial Notation
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#symbol" title="Symbol" class="md-nav__link">
+    Symbol
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#examples" title="Examples" class="md-nav__link">
+    Examples
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#principles-of-counting" title="Principles of Counting" class="md-nav__link">
+    Principles of Counting
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fundamental-principle-of-addition" title="Fundamental Principle of Addition" class="md-nav__link">
+    Fundamental Principle of Addition
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fundamental-principle-of-multiplication" title="Fundamental Principle of Multiplication" class="md-nav__link">
+    Fundamental Principle of Multiplication
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#permutations" title="Permutations" class="md-nav__link">
+    Permutations
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rules" title="Rules" class="md-nav__link">
+    Rules
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#combinations" title="Combinations" class="md-nav__link">
+    Combinations
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rules_1" title="Rules" class="md-nav__link">
+    Rules
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#probability" title="Probability" class="md-nav__link">
+    Probability
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definitions" title="Definitions" class="md-nav__link">
+    Definitions
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#random-experiment" title="Random experiment" class="md-nav__link">
+    Random experiment
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sample-space" title="Sample space" class="md-nav__link">
+    Sample space
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#event" title="Event" class="md-nav__link">
+    Event
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mutually-exclusive-or-disjoint-events" title="Mutually exclusive or disjoint events" class="md-nav__link">
+    Mutually exclusive or disjoint events
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#equally-likely-events" title="Equally likely events" class="md-nav__link">
+    Equally likely events
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dependent-independent-events" title="Dependent / Independent events" class="md-nav__link">
+    Dependent / Independent events
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#results" title="Results" class="md-nav__link">
+    Results
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch08/" title="08 - Binomial Theorem" class="md-nav__link">
+      08 - Binomial Theorem
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch09/" title="09 - Fundamentals of Trigonometry" class="md-nav__link">
+      09 - Fundamentals of Trigonometry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch10/" title="10 - Trigonometric Identities" class="md-nav__link">
+      10 - Trigonometric Identities
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch11/" title="11 - Trigonometric Function" class="md-nav__link">
+      11 - Trigonometric Function
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch12/" title="12 - Application of Trigonometry" class="md-nav__link">
+      12 - Application of Trigonometry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch13/" title="13 - Inverse Trigonometric Functions" class="md-nav__link">
+      13 - Inverse Trigonometric Functions
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch14/" title="14 - Trigonometric Equations" class="md-nav__link">
+      14 - Trigonometric Equations
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch15/" title="15 - Functions & Limits" class="md-nav__link">
+      15 - Functions & Limits
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch16/" title="16 - Differentiation" class="md-nav__link">
+      16 - Differentiation
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch17/" title="17 - Integration" class="md-nav__link">
+      17 - Integration
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch18/" title="18 - Analytical Geometry" class="md-nav__link">
+      18 - Analytical Geometry
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch19/" title="19 - Linear Inequalities" class="md-nav__link">
+      19 - Linear Inequalities
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch20/" title="20 - Conic Sections" class="md-nav__link">
+      20 - Conic Sections
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../ch21/" title="21 - Vector" class="md-nav__link">
+      21 - Vector
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Chemistry
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Chemistry
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../comingsoon/" title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      Computer
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Computer
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../comingsoon/" title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
+    
+    <label class="md-nav__link" for="nav-6">
+      IQ
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        IQ
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../iq/" title="Index" class="md-nav__link">
+      Index
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../iq/ch01/" title="01 - Coding" class="md-nav__link">
+      01 - Coding
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../iq/ch02/" title="02 - Directions" class="md-nav__link">
+      02 - Directions
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../iq/ch03/" title="03 - Pick Odd one Out" class="md-nav__link">
+      03 - Pick Odd one Out
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../iq/ch04/" title="04 - Find Missing Number" class="md-nav__link">
+      04 - Find Missing Number
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#factorial-notation" title="Factorial Notation" class="md-nav__link">
+    Factorial Notation
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#symbol" title="Symbol" class="md-nav__link">
+    Symbol
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#examples" title="Examples" class="md-nav__link">
+    Examples
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#principles-of-counting" title="Principles of Counting" class="md-nav__link">
+    Principles of Counting
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fundamental-principle-of-addition" title="Fundamental Principle of Addition" class="md-nav__link">
+    Fundamental Principle of Addition
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fundamental-principle-of-multiplication" title="Fundamental Principle of Multiplication" class="md-nav__link">
+    Fundamental Principle of Multiplication
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#permutations" title="Permutations" class="md-nav__link">
+    Permutations
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rules" title="Rules" class="md-nav__link">
+    Rules
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#combinations" title="Combinations" class="md-nav__link">
+    Combinations
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#rules_1" title="Rules" class="md-nav__link">
+    Rules
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#probability" title="Probability" class="md-nav__link">
+    Probability
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definitions" title="Definitions" class="md-nav__link">
+    Definitions
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#random-experiment" title="Random experiment" class="md-nav__link">
+    Random experiment
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sample-space" title="Sample space" class="md-nav__link">
+    Sample space
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#event" title="Event" class="md-nav__link">
+    Event
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mutually-exclusive-or-disjoint-events" title="Mutually exclusive or disjoint events" class="md-nav__link">
+    Mutually exclusive or disjoint events
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#equally-likely-events" title="Equally likely events" class="md-nav__link">
+    Equally likely events
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dependent-independent-events" title="Dependent / Independent events" class="md-nav__link">
+    Dependent / Independent events
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#results" title="Results" class="md-nav__link">
+    Results
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="permutation-combination-probability">Permutation, Combination &amp; Probability<a class="headerlink" href="#permutation-combination-probability" title="Permanent link">&para;</a></h1>
+<h2 id="factorial-notation">Factorial Notation<a class="headerlink" href="#factorial-notation" title="Permanent link">&para;</a></h2>
+<p>Let <span class="arithmatex">\(n\)</span> be a positive integer. Then the product <span class="arithmatex">\(n\)</span><span class="arithmatex">\((n-1)\)</span><span class="arithmatex">\((n-2)\)</span>....<span class="arithmatex">\(3.2.1\)</span> is called it factorial.</p>
+<h3 id="symbol">Symbol<a class="headerlink" href="#symbol" title="Permanent link">&para;</a></h3>
+<p>In above case <span class="arithmatex">\(n\)</span> factorial is denoted by <span class="arithmatex">\(n!\)</span> and it can also be written as <span class="arithmatex">\(\underline{|x}\)</span></p>
+<h3 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h3>
+<p><span class="arithmatex">\(0!\)</span> =<span class="arithmatex">\(1\)</span> (by definition)<br>
+<span class="arithmatex">\(1!\)</span> =<span class="arithmatex">\(1\)</span> <br>
+<span class="arithmatex">\(2!\)</span> =<span class="arithmatex">\(2.1\)</span> = <span class="arithmatex">\(2\)</span> <br>
+<span class="arithmatex">\(3!\)</span> =<span class="arithmatex">\(3.2.1\)</span> = <span class="arithmatex">\(6\)</span> <br>
+<span class="arithmatex">\(4!\)</span> =<span class="arithmatex">\(4.3.2.1\)</span> = <span class="arithmatex">\(24\)</span> <br>
+<span class="arithmatex">\(5!\)</span> =<span class="arithmatex">\(5.4.3.2.1\)</span> = <span class="arithmatex">\(120\)</span> <br>
+<span class="arithmatex">\(6!\)</span> =<span class="arithmatex">\(6.5.4.3.21\)</span> = <span class="arithmatex">\(720\)</span> <br>
+<span class="arithmatex">\(7!\)</span> =<span class="arithmatex">\(5040\)</span> <br>
+<span class="arithmatex">\(8!\)</span> =<span class="arithmatex">\(40320\)</span> <br>
+<span class="arithmatex">\(9!\)</span> =<span class="arithmatex">\(362880\)</span> <br>
+<span class="arithmatex">\(10!\)</span> =<span class="arithmatex">\(3628800\)</span> <br></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<ul>
+<li><span class="arithmatex">\((a+b)!\rlap{/}{=}a!+b!\)</span></li>
+<li><span class="arithmatex">\((a\cdotp b)!\rlap{/}{=}a!\cdotp b!\)</span></li>
+</ul>
+</div>
+<h2 id="principles-of-counting">Principles of Counting<a class="headerlink" href="#principles-of-counting" title="Permanent link">&para;</a></h2>
+<h3 id="fundamental-principle-of-addition">Fundamental Principle of Addition<a class="headerlink" href="#fundamental-principle-of-addition" title="Permanent link">&para;</a></h3>
+<p>If an operation can be performed in <span class="arithmatex">\(m\)</span> ways and another operation can be performed in <span class="arithmatex">\(n\)</span> ways, independent of first operation then either of the two operations can be performed in <span class="arithmatex">\(m+n\)</span> ways. This is called fundamental principal of addition.</p>
+<h3 id="fundamental-principle-of-multiplication">Fundamental Principle of Multiplication<a class="headerlink" href="#fundamental-principle-of-multiplication" title="Permanent link">&para;</a></h3>
+<p>If an operation can be performed in <span class="arithmatex">\(m\)</span> ways and afterwards a second Operation can be performed in <span class="arithmatex">\(n\)</span> ways then both these operations can be performed in <span class="arithmatex">\(m \times n\)</span> ways. This is called fundamental principle of multiplication.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>These principles can be extended tip to finite number of operations.</p>
+</div>
+<h2 id="permutations">Permutations<a class="headerlink" href="#permutations" title="Permanent link">&para;</a></h2>
+<p>The different arrangements which can be made out of a given number. taken one or more at a time. are called permutations.</p>
+<p><strong>OR</strong></p>
+<p>An arrangement of a finite number of objects one or more at a time is called a permutation of these objects (w.r.t. their order).</p>
+<h3 id="rules">Rules<a class="headerlink" href="#rules" title="Permanent link">&para;</a></h3>
+<ul>
+<li>The number of Permutations of n-distinct things taken all at a time is <span class="arithmatex">\(n!\)</span>.</li>
+<li>The number of permutations of <span class="arithmatex">\(n\)</span> distinct objects taken <span class="arithmatex">\(r\)</span> at a time is given by: $$ ^nP_r=\frac{n!}{(n-r)!}\;\; 0\le r\le n $$</li>
+<li><span class="arithmatex">\(^nP_r=n!\)</span></li>
+<li><span class="arithmatex">\(^nP_0=1\)</span></li>
+<li>If one of <span class="arithmatex">\(n\)</span> given objects <span class="arithmatex">\(p\)</span> are alike and of one, kind, <span class="arithmatex">\(q\)</span> are alike and of second kind, <span class="arithmatex">\(r\)</span>  are alike and of third kind, and so on then the number of permutations of these n-objects taken all at a time is given by: $$ \dbinom{n!}{p!q!r!} $$ formula can also be written as: $$ \dbinom{n}{pqr} $$</li>
+<li>The number of circular permutation of <span class="arithmatex">\(n\)</span> different objects taken all at a time is <span class="arithmatex">\((n-1)!\)</span></li>
+<li>Number of arrangements of n=beads (keys) etc, can be arranged on circular wire (key ring) is $$ \frac{(n-1)!}{2} $$</li>
+</ul>
+<h2 id="combinations">Combinations<a class="headerlink" href="#combinations" title="Permanent link">&para;</a></h2>
+<p>The different groups or selections which can be made out of a given number of objects, taken one or more at a time (irrespective of their arrangements) are called combinations.</p>
+<h3 id="rules_1">Rules<a class="headerlink" href="#rules_1" title="Permanent link">&para;</a></h3>
+<ul>
+<li>The number of combinations of <span class="arithmatex">\(n\)</span> distinct objects, taken all at a time is 1.</li>
+<li>The number of combinations of <span class="arithmatex">\(n\)</span> distinct objects taken <span class="arithmatex">\(r\)</span> at a time is given by: $$ ^nC_r=\dbinom{n}{r}=\frac{n!}{r!(n-r)!} $$.</li>
+<li>The number of combinations of <span class="arithmatex">\(n\)</span> distinct objects taken <span class="arithmatex">\(r\)</span> at a time when <span class="arithmatex">\(p\)</span> particular objects are always included is given by: $$ ^{n-p}C_{r-p} $$</li>
+<li>The number of combinations of <span class="arithmatex">\(n\)</span> distinct objects taken <span class="arithmatex">\(r\)</span> at a time when <span class="arithmatex">\(p\)</span> particular objects are never included is given by: $$ ^{n-p}C_r $$</li>
+<li><span class="arithmatex">\(^nC_0=^nC_n=1\)</span></li>
+<li><span class="arithmatex">\(^nC_r=^nC_{r-1}\)</span></li>
+<li><span class="arithmatex">\(^nC_r+^nC_{r-1}=^{n+1}C_r\)</span></li>
+<li>If <span class="arithmatex">\(^nC_r=^nC_s\)</span>, then either <span class="arithmatex">\(r=s\)</span> or <span class="arithmatex">\(r+s=n\)</span></li>
+<li><span class="arithmatex">\(\frac{^nC_r}{^nC_{r-1}}=\frac{n-r+1}{r}\)</span></li>
+<li><span class="arithmatex">\(^nC_r.r!=^nP_r\)</span></li>
+<li><span class="arithmatex">\(^nC_0+^nC_1+nC_2+\)</span>...<span class="arithmatex">\(+^nC_n=2^n\)</span></li>
+<li><span class="arithmatex">\(^nC_0+^nC_2+nC_4+\)</span>...=<span class="arithmatex">\(^nC_1+^nC_3+nC_5+\)</span>...<span class="arithmatex">\(=2^{n-1}\)</span></li>
+<li>The number of ways of selecting one or more objects out of <span class="arithmatex">\(n\)</span> objects is <span class="arithmatex">\(2^n-1\)</span></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>In most cases, given problem cannot be determined whether it belongs to permutation or combination. On the basis of few words or on the assumption in expression of language given in the problem. we can identify that problem according to the following table:</p>
+<table>
+<thead>
+<tr>
+<th>Permutation</th>
+<th>Combination</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arrangements, Standing or sitting in roe or in a circle.<br>Problem regarding digits, letter, formation of words, numbers etc</td>
+<td>Selection, choice, draw etc. <br>Distribution, formation of a group, committee, team etc. <br>Problem regarding geometry.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id="probability">Probability<a class="headerlink" href="#probability" title="Permanent link">&para;</a></h2>
+<p>Probability is the numerical evaluation of a chance that a particular event would occur.</p>
+<h3 id="definitions">Definitions<a class="headerlink" href="#definitions" title="Permanent link">&para;</a></h3>
+<h4 id="random-experiment">Random experiment<a class="headerlink" href="#random-experiment" title="Permanent link">&para;</a></h4>
+<p>An experiment in which all possible outcomes are known in advance.</p>
+<h4 id="sample-space">Sample space<a class="headerlink" href="#sample-space" title="Permanent link">&para;</a></h4>
+<p>The set of all possible outcomes of an experiment is called the sample space of the experiment. It is denoted by <span class="arithmatex">\(S\)</span></p>
+<h4 id="event">Event<a class="headerlink" href="#event" title="Permanent link">&para;</a></h4>
+<p>A subset of the sample space is called an event.</p>
+<h4 id="mutually-exclusive-or-disjoint-events">Mutually exclusive or disjoint events<a class="headerlink" href="#mutually-exclusive-or-disjoint-events" title="Permanent link">&para;</a></h4>
+<p>Two events <span class="arithmatex">\(A\)</span> &amp; <span class="arithmatex">\(B\)</span> are said to be mutually exclusive or s=disjoint if and only if they cannot both occur at same time i.e they have no point in common $$ A\cap B=\phi $$</p>
+<h4 id="equally-likely-events">Equally likely events<a class="headerlink" href="#equally-likely-events" title="Permanent link">&para;</a></h4>
+<p>Two events <span class="arithmatex">\(A\)</span> and <span class="arithmatex">\(B\)</span> are said to be equally likely when one event is as likely to occur as the other.</p>
+<h4 id="dependent-independent-events">Dependent / Independent events<a class="headerlink" href="#dependent-independent-events" title="Permanent link">&para;</a></h4>
+<p>Two or more events such that occurrence of any one does not depends on the occurrence of any other, they are said to be independent events. Other wise dependent events.</p>
+<h3 id="results">Results<a class="headerlink" href="#results" title="Permanent link">&para;</a></h3>
+<ul>
+<li>The probability of happening of an event <span class="arithmatex">\(E\)</span> is defined as: $$ P(E)=\frac{n(E)}{n(S)} $$</li>
+<li>Probability of not happening of an event: $$ P(\overline{E})=1-P(E) $$</li>
+<li><span class="arithmatex">\(0\le P(E)\le 1\)</span></li>
+<li><span class="arithmatex">\(P(E)+P(\overline{E})=1\)</span></li>
+<li>If <span class="arithmatex">\(E\)</span> is an impossible event then <span class="arithmatex">\(P(E)=0\)</span></li>
+<li>If <span class="arithmatex">\(E\)</span> is certain event then <span class="arithmatex">\(P(E)=1\)</span></li>
+<li><strong>Addition theorem</strong>: for any two event <span class="arithmatex">\(A\)</span> &amp; <span class="arithmatex">\(B\)</span> $$ P(A\cup B)=P(A)+P(B)- P(A\cap B) $$</li>
+<li>If <span class="arithmatex">\(A\)</span> &amp; <span class="arithmatex">\(B\)</span> are mutually exclusive events then $$ P(A\cup B)=P(A)+P(B) $$</li>
+<li><strong>Multiplication law</strong>: if <span class="arithmatex">\(A\)</span> &amp; <span class="arithmatex">\(B\)</span> are two independent events, then the probability that both the events occur simultaneously in any order is given as: $$ P(A\cap B)=P(A)\times P(B) $$</li>
+</ul>
+                
+                  
+                
+              
+              
+                
+                  <h2 id="__comments">Comments</h2>
+                  <div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = "https://nmanumr.github.io/entry-test-notes/maths/ch07/";
+    this.page.identifier =
+      "/maths/ch07/";
+  };
+  (function() {
+    var d = document, s = d.createElement("script");
+    s.src = "//naumanumer.disqus.com/embed.js";
+    s.setAttribute("data-timestamp", +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+                
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../ch06/" title="06 - Sequence & Series" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                06 - Sequence & Series
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../ch08/" title="08 - Binomial Theorem" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                08 - Binomial Theorem
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Coded by Nauman Umer
+          </div>
+        
+        powered by
+        <a href="http://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+      <a href="https://github.com/nmanumr" class="md-footer-social__link fa fa-github"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.6cdc17f0.js"></script>
+      
+      <script>app.initialize({version:"0.17.2",url:{base:"../.."}})</script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/contrib/auto-render.min.js"></script>
+      
+        <script src="../../js/index.js"></script>
+      
+    
+    
+      
+        <script>!function(e,a,t,n,o,c,i){e.GoogleAnalyticsObject=o,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=1*new Date,c=a.createElement(t),i=a.getElementsByTagName(t)[0],c.async=1,c.src="https://www.google-analytics.com/analytics.js",i.parentNode.insertBefore(c,i)}(window,document,"script",0,"ga"),ga("create","UA-69868707-1","auto"),ga("set","anonymizeIp",!0),ga("send","pageview");var links=document.getElementsByTagName("a");Array.prototype.map.call(links,function(e){e.host!=document.location.host&&e.addEventListener("click",function(){var a=e.getAttribute("data-md-action")||"follow";ga("send","event","outbound",a,e.href)})});var query=document.forms.search.query;query.addEventListener("blur",function(){if(this.value){var e=document.location.pathname;ga("send","pageview",e+"?q="+this.value)}})</script>
+      
+    
+  </body>
+</html>
