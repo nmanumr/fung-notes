@@ -1,0 +1,128 @@
+# Project information
+site_name: 'Entry Test Notes'
+site_description: 'Entry Test notes for FUNG enrty test prepration'
+site_author: 'Nauman Umer'
+site_url: 'https://nmanumr.github.io/entry-test-notes'
+
+# Repository
+repo_name: 'nmanumr/Fung-notes'
+repo_url: 'https://www.github.com/nmanumr/nmanumr.github.io'
+# edit_uri: 'blob/master/entry-test-notes/docs/'
+
+# Copyright
+copyright: 'Coded by Nauman Umer'
+
+# Configuration
+theme:
+  name: 'material'
+  feature:
+    tabs: true
+
+# Customization
+extra:
+  disqus: 'fung-notes'
+  social:
+    - type: 'github'
+      link: 'https://github.com/nmanumr'
+    # - type: 'facebook'
+    #   link: 'https://www.fb.com/mandecat'
+
+# Google Analytics
+google_analytics:
+  - UA-69868707-1
+  - auto
+
+#Pages
+pages:
+    - Home: 'index.md'
+    - Physics:
+        - 'Index': 'physics/index.md'
+        - '01 - Measurements': 'physics/ch01.md'
+        - '02 - Vectors': 'physics/ch02.md'
+        - '03 - Motion & Force': 'physics/ch03.md'
+        - '04 - Work & Energy': 'physics/ch04.md'
+        - '05 - Circular Motion': 'physics/ch05.md'
+        - '06 - Fluid Dynamics': 'physics/ch06.md'
+        - '07 - Oscillations': 'physics/ch07.md'
+        - '08 - Waves': 'physics/ch08.md'
+        - '09 - Physical Optics': 'physics/ch09.md'
+        - '10 - Optical Instruments': 'physics/ch10.md'
+        - '11 - Heat and Thermodynamics': 'physics/ch11.md'
+        - '12 - Electrostatics': 'physics/ch12.md'
+        - '13 - Current Electricity': 'physics/ch13.md'
+        - '14 - Electromagnetism': 'physics/ch14.md'
+        - '15 - Electromagnetic Induction': 'physics/ch15.md'
+        - '16 - Alternating Current': 'physics/ch16.md'
+        - '17 - Physics of Solids': 'physics/ch17.md'
+        - '18 - Electronics': 'physics/ch18.md'
+        - '19 - Dawn of Modern Physics': 'physics/ch19.md'
+        - '20 - Atomic Spectra': 'physics/ch20.md'
+        - '21 - Nuclear Physics': 'physics/ch21.md'
+    - Maths:
+        - 'Index': 'maths/index.md'
+        - '01 - Number System': 'maths/ch01.md'
+        - '02 - Set, Functions & Groups': 'maths/ch02.md'
+        - '03 - Matrices & Determinants': 'maths/ch03.md'
+        - '04 - Quadratic Equations': 'maths/ch04.md'
+        - '05 - Partial Fraction': 'maths/ch05.md'
+        - '06 - Sequence & Series': 'maths/ch06.md'
+        - '07 - Permutation, Combination & Probability': 'maths/ch07.md'
+        - '08 - Binomial Theorem': 'maths/ch08.md'
+        - '09 - Fundamentals of Trigonometry': 'maths/ch09.md'
+        - '10 - Trigonometric Identities': 'maths/ch10.md'
+        - '11 - Trigonometric Function': 'maths/ch11.md'
+        - '12 - Application of Trigonometry': 'maths/ch12.md'
+        - '13 - Inverse Trigonometric Functions': 'maths/ch13.md'
+        - '14 - Trigonometric Equations': 'maths/ch14.md'
+        - '15 - Functions & Limits': 'maths/ch15.md'
+        - '16 - Differentiation': 'maths/ch16.md'
+        - '17 - Integration': 'maths/ch17.md'
+        - '18 - Analytical Geometry': 'maths/ch18.md'
+        - '19 - Linear Inequalities': 'maths/ch19.md'
+        - '20 - Conic Sections': 'maths/ch20.md'
+        - '21 - Vector': 'maths/ch21.md'
+    - Chemistry:
+        - 'Index': 'comingsoon.md'
+    - Computer:
+        - 'Index': 'comingsoon.md'
+    - IQ:
+        - 'Index': 'iq/index.md'
+        - '01 - Coding': 'iq/ch01.md'
+        - '02 - Directions': 'iq/ch02.md'
+        - '03 - Pick Odd one Out': 'iq/ch03.md'
+        - '04 - Find Missing Number': 'iq/ch04.md'
+
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - admonition
+  - meta
+
+extra_css:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.css'
+  - 'css/index.css'
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/contrib/auto-render.min.js'
+  - 'js/index.js'
