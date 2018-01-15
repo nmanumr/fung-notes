@@ -20,7 +20,7 @@ theme:
 
 # Customization
 extra:
-  disqus: 'fung-notes'
+  # disqus: 'fung-notes'
   social:
     - type: 'github'
       link: 'https://github.com/nmanumr'
@@ -61,6 +61,7 @@ pages:
     - Maths:
         - 'Index': 'maths/index.md'
         - '01 - Number System': 'maths/ch01.md'
+        - 'Exercise': 'maths/ch01ex.md'
         - '02 - Set, Functions & Groups': 'maths/ch02.md'
         - '03 - Matrices & Determinants': 'maths/ch03.md'
         - '04 - Quadratic Equations': 'maths/ch04.md'
