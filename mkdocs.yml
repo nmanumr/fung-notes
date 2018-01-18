@@ -20,7 +20,7 @@ theme:
 
 # Customization
 extra:
-  # disqus: 'fung-notes'
+  disqus: 'fung-notes'
   social:
     - type: 'github'
       link: 'https://github.com/nmanumr'
