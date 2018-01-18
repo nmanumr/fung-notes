@@ -5,7 +5,7 @@
 * [ ] [05 - Circular Motion](/physics/ch05) (Not Started)
 * [ ] [06 - Fluid Dynamics](/physics/ch06) (Not Started)
 * [ ] [07 - Oscillations](/physics/ch07) (Not Started)
-* [ ] [08 - Waves](/physics/ch08) (Not Started)
+* [x] [08 - Waves](/physics/ch08)
 * [ ] [09 - Physical Optics](/physics/ch09) (Not Started)
 * [ ] [10 - Optical Instruments](/physics/ch10) (Not Started)
 * [ ] [11 - Heat and Thermodynamics](/physics/ch11) (Not Started)
