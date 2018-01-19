@@ -1,3 +1,4 @@
+
 # Project information
 site_name: 'Entry Test Notes'
 site_description: 'Entry Test notes for FUNG enrty test prepration'
@@ -20,7 +21,7 @@ theme:
 
 # Customization
 extra:
-  disqus: 'fung-notes'
+  # disqus: 'fung-notes'
   social:
     - type: 'github'
       link: 'https://github.com/nmanumr'
