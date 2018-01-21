@@ -21,7 +21,7 @@ theme:
 
 # Customization
 extra:
-  # disqus: 'fung-notes'
+  disqus: 'fung-notes'
   social:
     - type: 'github'
       link: 'https://github.com/nmanumr'
@@ -84,7 +84,7 @@ pages:
         - '20 - Conic Sections': 'maths/ch20.md'
         - '21 - Vector': 'maths/ch21.md'
     - Chemistry:
-        - 'Index': 'comingsoon.md'
+        - 'Index': 'che/comingsoon.md'
     - Computer:
         - 'Index': 'comp/index.md'
         - '01 - Introduction to Computers': 'comp/ch01.md'
