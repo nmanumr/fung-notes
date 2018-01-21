@@ -86,7 +86,30 @@ pages:
     - Chemistry:
         - 'Index': 'comingsoon.md'
     - Computer:
-        - 'Index': 'comingsoon.md'
+        - 'Index': 'comp/index.md'
+        - '01 - Introduction to Computers': 'comp/ch01.md'
+        - '02 - Computer Networks': 'comp/ch02.md'
+        - '03 - Data Communication': 'comp/ch03.md'
+        - '04 - Uses to Computer': 'comp/ch04.md'
+        - '05 - Basics of Security, Copyright & Laws': 'comp/ch05.md'
+        - '06 - Windows OS': 'comp/ch06.md'
+        - '07 - MS Word': 'comp/ch07.md'
+        - '08 - MS Excel': 'comp/ch08.md'
+        - '09 - Internet & Email': 'comp/ch09.md'
+        - '10 - Data Basics': 'comp/ch10.md'
+        - '11 - Introduction to Database': 'comp/ch11.md'
+        - '12 - Database Design Process': 'comp/ch12.md'
+        - '13 - Data Integrity & Normalization': 'comp/ch13.md'
+        - '14 - Introduction to MS Access': 'comp/ch14.md'
+        - '15 - Table & Query': 'comp/ch15.md'
+        - '16 - Forms & Reports': 'comp/ch16.md'
+        - '17 - Introduction to C': 'comp/ch17.md'
+        - '18 - Elements of C': 'comp/ch18.md'
+        - '19 - Input & Output': 'comp/ch19.md'
+        - '20 - Decision Control': 'comp/ch20.md'
+        - '21 - Loop Control': 'comp/ch21.md'
+        - '22 - Function': 'comp/ch22.md'
+        - '23 - File Handling': 'comp/ch23.md'
     - IQ:
         - 'Index': 'iq/index.md'
         - '01 - Coding': 'iq/ch01.md'
@@ -120,6 +143,7 @@ markdown_extensions:
   - extra
   - admonition
   - meta
+  - codehilite
 
 extra_css:
   - 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.css'
