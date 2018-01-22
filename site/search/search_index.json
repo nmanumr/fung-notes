@@ -3762,8 +3762,33 @@
         }, 
         {
             "location": "/iq/", 
-            "text": "This portion just requires some practices with a sound mind. If one have both he can easily score 10 out of 10 marks in this portion.\n\n\nThere are 4 types of questions in IQ portion that appears in NET:\n\n\n\n\n01 - Coding\n\n\n02 - Directions\n\n\n03 - Odd one out\n\n\n04 - Find the missing number", 
+            "text": "IQ\n\n\nIntroduction\n\n\nNotes on intelligence portion for different entry tests.\n\n\nContribution\n\n\nIf you found any type of mistake including typos, wrong equations or anything wrong, feel free to either write in comments or open an issue on \nGithub repository\n\n\nAuthors\n\n\nDocuments provided by \naideservices.org\n. Editors:\n\n\n\n\nNauman Umer\n\n\n\n\nIndex\n\n\n\n\n01 - Coding\n\n\n02 - Directions\n\n\n03 - Odd one out\n\n\n04 - Find the missing number", 
             "title": "IQ Index"
+        }, 
+        {
+            "location": "/iq/#iq", 
+            "text": "", 
+            "title": "IQ"
+        }, 
+        {
+            "location": "/iq/#introduction", 
+            "text": "Notes on intelligence portion for different entry tests.", 
+            "title": "Introduction"
+        }, 
+        {
+            "location": "/iq/#contribution", 
+            "text": "If you found any type of mistake including typos, wrong equations or anything wrong, feel free to either write in comments or open an issue on  Github repository", 
+            "title": "Contribution"
+        }, 
+        {
+            "location": "/iq/#authors", 
+            "text": "Documents provided by  aideservices.org . Editors:   Nauman Umer", 
+            "title": "Authors"
+        }, 
+        {
+            "location": "/iq/#index", 
+            "text": "01 - Coding  02 - Directions  03 - Odd one out  04 - Find the missing number", 
+            "title": "Index"
         }, 
         {
             "location": "/iq/ch01/", 
