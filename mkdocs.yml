@@ -37,7 +37,7 @@ google_analytics:
 pages:
     - Home: 'index.md'
     - Physics:
-        - 'Index': 'physics/index.md'
+        - 'Physics Index': 'physics/index.md'
         - '01 - Measurements': 'physics/ch01.md'
         - '02 - Vectors': 'physics/ch02.md'
         - '03 - Motion & Force': 'physics/ch03.md'
@@ -60,7 +60,7 @@ pages:
         - '20 - Atomic Spectra': 'physics/ch20.md'
         - '21 - Nuclear Physics': 'physics/ch21.md'
     - Maths:
-        - 'Index': 'maths/index.md'
+        - 'Mathematics Index': 'maths/index.md'
         - '01 - Number System': 'maths/ch01.md'
         - 'Exercise': 'maths/ch01ex.md'
         - '02 - Set, Functions & Groups': 'maths/ch02.md'
@@ -84,9 +84,9 @@ pages:
         - '20 - Conic Sections': 'maths/ch20.md'
         - '21 - Vector': 'maths/ch21.md'
     - Chemistry:
-        - 'Index': 'che/comingsoon.md'
+        - 'Chemistry Index': 'che/index.md'
     - Computer:
-        - 'Index': 'comp/index.md'
+        - 'Computer Index': 'comp/index.md'
         - '01 - Introduction to Computers': 'comp/ch01.md'
         - '02 - Computer Networks': 'comp/ch02.md'
         - '03 - Data Communication': 'comp/ch03.md'
@@ -111,7 +111,7 @@ pages:
         - '22 - Function': 'comp/ch22.md'
         - '23 - File Handling': 'comp/ch23.md'
     - IQ:
-        - 'Index': 'iq/index.md'
+        - 'IQ Index': 'iq/index.md'
         - '01 - Coding': 'iq/ch01.md'
         - '02 - Directions': 'iq/ch02.md'
         - '03 - Pick Odd one Out': 'iq/ch03.md'
@@ -140,7 +140,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - extra
   - admonition
   - meta
   - codehilite

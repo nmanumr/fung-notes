@@ -15,7 +15,9 @@ This document in provided by [aideservices.org](http://aideservices.org/). The a
 * Muhammah Talha Nouman
 * Mirza Husnain
 
-I just rewritten the document and one of the editors of it.
+Editor:
+
+* Nauman Umer
 
 ## Index
 The whole documents is divided in 21 different chapters, listed below:

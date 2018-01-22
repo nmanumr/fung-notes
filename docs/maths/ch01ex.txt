@@ -139,7 +139,7 @@ If $Z\in C$ then $Z\overline{Z}=$?
 
 
 If $Z_1,Z_2\in C$ then $\overline{Z_1+Z_2}=$?
-* [ ] $\overline{Z_1}+\\overline{Z_2}$
+* [ ] $\overline{Z_1}+\overline{Z_2}$
 * [ ] $Z_1-Z_2$
 * [ ] $Z_1+Z_2$
 * [ ] $\overline{Z_1-Z_2}$
@@ -166,7 +166,7 @@ The conjugate of <span class="ld">$$ \frac{2+3i}{1-i} $$ </span>
 * [ ] <span class="ld">$$ \frac{2+3i}{-1-i} $$ </span>
 
 
-$(-1+\sqrt{-3})^4+(-1-\sqrt{-3})^4=$?
+$(-1+\sqrt{-3})^4+$ $(-1-\sqrt{-3})^4=$?
 * [ ] $-2$
 * [ ] $4$
 * [ ] $-4$
@@ -229,7 +229,7 @@ $\{1,-1\}$ is closed with respect to
 * [ ] Both Multiplication & Division
 
 
-$(\cos20+i\sin20)^5 / (\cos30+i\sin30)^3=$?
+$(\cos20+i\sin20)^5$ $/(\cos30+i\sin30)^3=$?
 * [ ] $\cos20+i\sin20$
 * [ ] $\cos30+i\sin30$
 * [ ] $\cos10+i\sin10$
@@ -283,6 +283,3 @@ The multiplicative inverse of $\sqrt{7}$ is
 * [ ] $\sqrt{7}/7$
 * [ ] $1/7$
 * [ ] $1$
-
-
-$0.$
