@@ -1,7 +1,7 @@
 
 # Project information
 site_name: 'Entry Test Notes'
-site_description: 'Entry Test notes for FUNG enrty test prepration'
+site_description: 'Entry Test notes for FUNG entry test prepration'
 site_author: 'Nauman Umer'
 site_url: 'https://nmanumr.github.io/fung-notes'
 
@@ -36,6 +36,8 @@ google_analytics:
 #Pages
 pages:
     - Home: 'index.md'
+    - Contributing: 'contributing.md'
+    - Code of Conduct: 'code_of_conduct.md'
     - Physics:
         - 'Physics Index': 'physics/index.md'
         - '01 - Measurements': 'physics/ch01.md'

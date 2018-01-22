@@ -27,7 +27,7 @@ The whole documents is divided in 21 different chapters, listed below:
 * [ ] [07 - Oscillations](/physics/ch07) (Not Started)
 * [x] [08 - Waves](/physics/ch08)
 * [x] [09 - Physical Optics](/physics/ch09)
-* [ ] [10 - Optical Instruments](/physics/ch10) (Not Started)
+* [x] [10 - Optical Instruments](/physics/ch10)
 * [ ] [11 - Heat and Thermodynamics](/physics/ch11) (Not Started)
 * [x] [12 - Electrostatics](/physics/ch12)
 * [x] [13 - Current Electricity](/physics/ch13)

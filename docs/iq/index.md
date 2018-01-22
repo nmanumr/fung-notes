@@ -1,6 +1,18 @@
-This portion just requires some practices with a sound mind. If one have both he can easily score 10 out of 10 marks in this portion.
+hero: IQ
 
-There are 4 types of questions in IQ portion that appears in NET:
+# IQ
+## Introduction
+Notes on intelligence portion for different entry tests.
+
+## Contribution
+If you found any type of mistake including typos, wrong equations or anything wrong, feel free to either write in comments or open an issue on [Github repository](https://www.github.com/nmanumr/nmanumr.github.io/issues)
+
+## Authors
+Documents provided by [aideservices.org](http://aideservices.org/). Editors:
+
+* Nauman Umer
+
+## Index
 
 * [01 - Coding](./ch01)
 * [02 - Directions](./ch02)
