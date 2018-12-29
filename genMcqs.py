@@ -6,17 +6,38 @@ import re
 crnt_path = os.path.dirname(os.path.abspath(__file__))
 docs_path = os.path.join(crnt_path, 'docs')
 MCQ_RE = re.compile(r"[*]\s*\[((\s*)|[x])\]\s*(.*)")
+header_RE = re.compile(r"^\s*(\w+):\s*([\w ]*)")
 q_num=1
 
 def process_file(file):
     outfile = open(file.replace('.txt', '.md'), 'w+')
     text = open(file).read()
     blocks = text.split("\n\n\n")
-    new_text='hero: Number System Exercise\n<link rel="stylesheet" href="../../css/ex.css">\n\n# Mcqs - Number System\n<ol class="questions">'
+    new_text_f = '%s\n\n<link rel="stylesheet" href="../../css/ex.css">\n\n# %s\n<ol class="questions">'
+    new_text =""
+
+    meta = process_meta(blocks[0])
+    if bool(meta):
+        new_text = new_text_f % (blocks[0], meta['heading'] if meta['heading'] else "");
+        blocks= blocks[1:]
+
     for block in blocks:
         new_text+=process_block(block)
+
     new_text += '</ol><script src="../../js/mcqs.js"></script>'
     outfile.write(new_text)
+
+
+def process_meta(block):
+    lines = block.split('\n')
+    headers = {}
+    for ln in lines:
+        m = header_RE.match(ln)
+        if (m):
+            headers[m.group(1)]= m.group(2)
+
+    return headers
+
 
 
 def process_block(block):
@@ -33,7 +54,7 @@ def process_block(block):
                 "isCorrect": m.group(1)=="x"
             })
         else:
-            text.append(ln)
+            text.append(re.sub(r"^[\d]+[.] ", "", ln))
     question['text'] = "\n".join(text) + "\n"
     return process_question(question)
 
@@ -59,4 +80,5 @@ for dir in os.listdir(docs_path):
     for file in os.listdir(os.path.join(docs_path, dir)):
         if file.endswith('ex.txt'):
             filepath = os.path.join(docs_path, dir, file)
+            q_num = 1
             process_file(filepath)

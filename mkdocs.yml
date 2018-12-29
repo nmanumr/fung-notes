@@ -21,7 +21,7 @@ theme:
 
 # Customization
 extra:
-  disqus: 'fung-notes'
+  # disqus: 'fung-notes'
   social:
     - type: 'github'
       link: 'https://github.com/nmanumr'
@@ -38,6 +38,7 @@ pages:
     - Home: 'index.md'
     - Contributing: 'contributing.md'
     - Code of Conduct: 'code_of_conduct.md'
+    - Python: 'python.md'
     - Physics:
         - 'Physics Index': 'physics/index.md'
         - '01 - Measurements': 'physics/ch01.md'
@@ -48,6 +49,7 @@ pages:
         - '06 - Fluid Dynamics': 'physics/ch06.md'
         - '07 - Oscillations': 'physics/ch07.md'
         - '08 - Waves': 'physics/ch08.md'
+        - 'Exercise - 08': 'physics/ch08ex.md'
         - '09 - Physical Optics': 'physics/ch09.md'
         - '10 - Optical Instruments': 'physics/ch10.md'
         - '11 - Heat and Thermodynamics': 'physics/ch11.md'
@@ -64,7 +66,7 @@ pages:
     - Maths:
         - 'Mathematics Index': 'maths/index.md'
         - '01 - Number System': 'maths/ch01.md'
-        - 'Exercise': 'maths/ch01ex.md'
+        - 'Exercise - 01': 'maths/ch01ex.md'
         - '02 - Set, Functions & Groups': 'maths/ch02.md'
         - '03 - Matrices & Determinants': 'maths/ch03.md'
         - '04 - Quadratic Equations': 'maths/ch04.md'
@@ -144,7 +146,8 @@ markdown_extensions:
   - pymdownx.tilde
   - admonition
   - meta
-  - codehilite
+  - codehilite:
+      linenums: true
 
 extra_css:
   - 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha1/katex.min.css'
