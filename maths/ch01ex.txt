@@ -1,285 +1,292 @@
-if $a$ and $b$ are real numbers then $a+b$ is a real no. This law is called
-* [ ] Closure law
+hero: Exercise - 01
+heading: Practice Exercise
+subject: Mathematics
+chapters: Number System
+tests: NET, ECAT
+paid: false
+
+1. if $a$ and $b$ are real numbers then $a+b$ is a real no. This law is called
+* [x] Closure law
 * [ ] Commutative law
 * [ ] Associative law
 * [ ] Distributive law
 
 
-If $a\in R$ then multiplicative inverse of $a$ is
+2. If $a\in R$ then multiplicative inverse of $a$ is
 * [ ] $0$
 * [ ] $a$
-* [ ] $1/a$
+* [x] $1/a$
 * [ ] $-a$
 
 
-Which of the following is field?
-* [ ] $Q$
+3. Which of the following is field?
+* [x] $Q$
 * [ ] $N$
 * [ ] $W$
 * [ ] $Q'$
 
 
-$1>-1\implies -3>-5$, this property is called
-* [ ] Additive property
+4. $1>-1\implies -3>-5$, this property is called
+* [x] Additive property
 * [ ] Transitive property
 * [ ] Multiplicative property
 * [ ] Closure property
 
 
-Let $a$, $b$, $c$, $d$ $\in R$ then $a=b$ and $c=d\implies$
+5. Let $a$, $b$, $c$, $d$ $\in R$ then $a=b$ and $c=d\implies$
 * [ ] $a+b=c+d$
 * [ ] $a-b=c+d$
-* [ ] $a+c=b+d$
+* [x] $a+c=b+d$
 * [ ] $a+c=b+d$
 
 
-If $Z_1=(x_1,y_1)$, $Z_2=(x_2,y_2)$ where $Z_1\cdotp Z_2\in C$ then $Z_1+Z_2=$?
-* [ ] $(x_1+x_2,y_1+y_2)$
+6. If $Z_1=(x_1,y_1)$, $Z_2=(x_2,y_2)$ where $Z_1\cdotp Z_2\in C$ then $Z_1+Z_2=$?
+* [x] $(x_1+x_2,y_1+y_2)$
 * [ ] $(x_1+y_2,x_2+y_1)$
 * [ ] $(x_1+y_1,x_2+y_2)$
 * [ ] $(x_1-x_2,y_1+y_2)$
 
 
-If $Z_1=3-6i$ and $Z_2=4+5i$ then $Z_1Z_2=$?
-* [ ] $42-9i$
+7. If $Z_1=3-6i$ and $Z_2=4+5i$ then $Z_1Z_2=$?
+* [x] $42-9i$
 * [ ] $9-42i$
 * [ ] $42+9i$
 * [ ] $4+i$
 
 
-If $Z_1=(1,0)$, $Z_2=(2,3)$ then $Z_1Z_2=$?
+8. If $Z_1=(1,0)$, $Z_2=(2,3)$ then $Z_1Z_2=$?
 * [ ] $-2+3i$
 * [ ] $2-3i$
-* [ ] $2+3i$
+* [x] $2+3i$
 * [ ] $-2-3i$
 
 
-$(3,5)+(0,4)=$?
+9. $(3,5)+(0,4)=$?
 * [ ] $(3,5)$
 * [ ] $(0,9)$
 * [ ] $(0,4)$
-* [ ] $(3,9)$
+* [x] $(3,9)$
 
 
-Additive inverse of $(3,3)$ is $C$ is
+10. Additive inverse of $(3,3)$ is $C$ is
 * [ ] $(3,0)$
 * [ ] $(0,3)$
 * [ ] $(-3,3)$
-* [ ] $(-3,-3)$
+* [x] $(-3,-3)$
 
 
-If $Z=(a,b)$ then multiplication inverse of $Z$ is
+11. If $Z=(a,b)$ then multiplication inverse of $Z$ is
 * [ ] <span class="ld">$$ \left(\frac{a}{a^2 + b^2 }, \frac{b}{ a^2 + b^2 }\right) $$ </span>
-* [ ] <span class="ld">$$ \left(\frac{a}{ a^2 + b^2 }, \frac{-b}{ a^2 + b^2 }\right) $$ </span>
+* [x] <span class="ld">$$ \left(\frac{a}{ a^2 + b^2 }, \frac{-b}{ a^2 + b^2 }\right) $$ </span>
 * [ ] <span class="ld">$$ \left(\frac{-a}{ a^2 + b^2 }, \frac{-b}{ a^2 + b^2 }\right) $$ </span>
 * [ ] <span class="ld">$$ \left(\frac{-a}{ a^2 + b^2 }, \frac{b}{ a^2 + b^2 }\right) $$ </span>
 
 
-If $Z=a+b$, then $|Z|=$?
-* [ ] $a-b$
+12. If $Z=a+b$, then $|Z|=$?
+* [x] $a-b$
 * [ ] $\sqrt{a^2+b^2}$
 * [ ] $a^2+b^2$
 * [ ] $a^2+b^2+2ab$
 
 
-If $Z=a+b$, then $\overline{Z}=$?
+13. If $Z=a+b$, then $\overline{Z}=$?
 * [ ] $a-b$
 * [ ] $-(a+b)$
 * [ ] $-a+b$
-* [ ] $a+b$
+* [x] $a+b$
 
 
-$i^{15}=$?
+14. $i^{15}=$?
 * [ ] $1$
-* [ ] $-i$
+* [x] $-i$
 * [ ] $i$
 * [ ] $-1$
 
 
-The value of $i^{25}=$?
-* [ ] $i$
+15. The value of $i^{25}=$?
+* [x] $i$
 * [ ] $-i$
 * [ ] $1$
 * [ ] $-1$
 
 
-Conjugate of $(-3,4)$ is
+16. Conjugate of $(-3,4)$ is
 * [ ] $(3,4)$
 * [ ] $(3,-4)$
-* [ ] $(-3,-4)$
+* [x] $(-3,-4)$
 * [ ] $(-3,4)$
 
 
-$(-i)^{31}$
-* [ ] $i$
+17. $(-i)^{31}$
+* [x] $i$
 * [ ] $-i$
 * [ ] $1$
 * [ ] $-1$
 
 
-The multiplicative inverse of $1-3i$ is
+18. The multiplicative inverse of $1-3i$ is
 * [ ] $3i$
 * [ ] $1/3i$
 * [ ] $-1/3$
-* [ ] none
+* [x] none
 
 
-The value of $i^{-29}$ is
+19. The value of $i^{-29}$ is
 * [ ] $i$
-* [ ] $-i$
+* [x] $-i$
 * [ ] $1$
 * [ ] $-1$
 
 
-If $Z\in C$ then $Z\overline{Z}=$?
+20. If $Z\in C$ then $Z\overline{Z}=$?
 * [ ] $\overline{Z_1}+\overline{Z_2}$
+* [ ] $Z_1-Z_2$
+* [ ] $Z_1+Z_2$
+* [x] $\overline{Z_1-Z_2}$
+
+
+21. If $Z_1,Z_2\in C$ then $\overline{Z_1+Z_2}=$?
+* [x] $\overline{Z_1}+\overline{Z_2}$
 * [ ] $Z_1-Z_2$
 * [ ] $Z_1+Z_2$
 * [ ] $\overline{Z_1-Z_2}$
 
 
-If $Z_1,Z_2\in C$ then $\overline{Z_1+Z_2}=$?
-* [ ] $\overline{Z_1}+\overline{Z_2}$
-* [ ] $Z_1-Z_2$
-* [ ] $Z_1+Z_2$
-* [ ] $\overline{Z_1-Z_2}$
-
-
-The value of $(3+2i)^3$ is
+22. The value of $(3+2i)^3$ is
 * [ ] $62+9i$
 * [ ] $46-9i$
-* [ ] $46i-9$
+* [x] $46i-9$
 * [ ] $46i+9$
 
 
-$C$ has no identity with respect to $+$ other than
+23. $C$ has no identity with respect to $+$ other than
 * [ ] $1+0i$
 * [ ] $0+1i$
-* [ ] $0+0i$
+* [x] $0+0i$
 * [ ] $1+1i$
 
 
-The conjugate of <span class="ld">$$ \frac{2+3i}{1-i} $$ </span>
-* [ ] <span class="ld">$$ \frac{2-3i}{1+i} $$ </span>
+24. The conjugate of <span class="ld">$$ \frac{2+3i}{1-i} $$ </span>
+* [x] <span class="ld">$$ \frac{2-3i}{1+i} $$ </span>
 * [ ] <span class="ld">$$ \frac{2-3i}{1-i} $$ </span>
 * [ ] <span class="ld">$$ \frac{2+3i}{1+i} $$ </span>
 * [ ] <span class="ld">$$ \frac{2+3i}{-1-i} $$ </span>
 
 
-$(-1+\sqrt{-3})^4+$ $(-1-\sqrt{-3})^4=$?
+25. $(-1+\sqrt{-3})^4+$ $(-1-\sqrt{-3})^4=$?
 * [ ] $-2$
 * [ ] $4$
 * [ ] $-4$
-* [ ] $-16$
+* [x] $-16$
 
 
-The smallest positive $k$ for which <span class="ld">$$ \left(\frac{1+i}{1-i}\right)^k = 1 $$ </span> is
+26. The smallest positive $k$ for which <span class="ld">$$ \left(\frac{1+i}{1-i}\right)^k = 1 $$ </span> is
 * [ ] $2$
-* [ ] $4$
+* [x] $4$
 * [ ] $8$
 * [ ] $16$
 
 
-Set of even prime natural numbers is
+27. Set of even prime natural numbers is
 * [ ] Finite
 * [ ] Empty
-* [ ] Singleton
+* [x] Singleton
 * [ ] Infinite
 
 
-If $n$ is any positive integer then the value of <span class="ld">$$ \frac{i^{4n+1} - i^{4n-1} }{2}= $$ </span>?
+28. If $n$ is any positive integer then the value of <span class="ld">$$ \frac{i^{4n+1} - i^{4n-1} }{2}= $$ </span>?
 * [ ] $1$
 * [ ] $-1$
-* [ ] $i$
+* [x] $i$
 * [ ] $-i$
 
 
-<span class="ld">$$ \frac{\sqrt{18}}{\sqrt{72}} $$ </span> is
-* [ ] Rational number
+29. <span class="ld">$$ \frac{\sqrt{18}}{\sqrt{72}} $$ </span> is
+* [x] Rational number
 * [ ] Irrational number
 * [ ] Imaginary number
 * [ ] None of these
 
 
-$2\sqrt{-9}\times\sqrt{-16}=$?
+30. $2\sqrt{-9}\times\sqrt{-16}=$?
 * [ ] $24$
-* [ ] $-24$
+* [x] $-24$
 * [ ] $48$
 * [ ] $-48$
 
 
-<span class="ld">$$ \left\vert\frac{1+i}{a+\frac{1}{i}}\right\vert= $$ </span>?
+31. <span class="ld">$$ \left\vert\frac{1+i}{a+\frac{1}{i}}\right\vert= $$ </span>?
 * [ ] $\sqrt{2}$
 * [ ] $1/\sqrt{2}$
 * [ ] $3/\sqrt{2}$
-* [ ] $1$
+* [x] $1$
 
 
-<span class="ld">$$ \left(\frac{1-i}{1+i}\right)^{100} =x+iy $$ </span> then
+32. <span class="ld">$$ \left(\frac{1-i}{1+i}\right)^{100} =x+iy $$ </span> then
 * [ ] $x=2$, $y=-1$
-* [ ] $x=1$, $y=0$
+* [x] $x=1$, $y=0$
 * [ ] $x=0$, $y=1$
 * [ ] $x=-1$, $y=2$
 
 
-$\{1,-1\}$ is closed with respect to
+33. $\{1,-1\}$ is closed with respect to
 * [ ] Addition
 * [ ] Multiplication
 * [ ] Division
-* [ ] Both Multiplication & Division
+* [x] Both Multiplication & Division
 
 
-$(\cos20+i\sin20)^5$ $/(\cos30+i\sin30)^3=$?
+34. $(\cos20+i\sin20)^5$ $/(\cos30+i\sin30)^3=$?
 * [ ] $\cos20+i\sin20$
 * [ ] $\cos30+i\sin30$
-* [ ] $\cos10+i\sin10$
+* [x] $\cos10+i\sin10$
 * [ ] $\cos20-i\sin20$
 
 
-The polar coordinates of point are $(2, 319)$ then the Cartesian coordinates of point are
-* [ ] $(1.509, -1.312)$
+35. The polar coordinates of point are $(2, 319)$ then the Cartesian coordinates of point are
+* [x] $(1.509, -1.312)$
 * [ ] $(-1.509, -1.312)$
 * [ ] $(1.509, 1.312)$
 * [ ] $(-1.509, 1.312)$
 
 
-The set of rational numbers between two real numbers is
+36. The set of rational numbers between two real numbers is
 * [ ] Finite
 * [ ] Empty
-* [ ] Infinite
+* [x] Infinite
 * [ ] Singleton
 
 
-Multiplicative inverse of non-zero elements $a\in Z$ is
+37. Multiplicative inverse of non-zero elements $a\in Z$ is
 * [ ] $1$
 * [ ] $-a$
 * [ ] $1/a$
-* [ ] Non existent
+* [x] Non existent
 
 
-The $\{x\in R, x^2 +10=0\}$ is
+38. The $\{x\in R, x^2 +10=0\}$ is
 * [ ] $\{10\}$
 * [ ] $\{-10\}$
-* [ ] Null set
+* [x] Null set
 * [ ] $R$
 
 
-Additive identity on $N$ is
+39. Additive identity on $N$ is
 * [ ] $0$
 * [ ] $1$
-* [ ] No identity
+* [x] No identity
 * [ ] None of these
 
 
-Additive inverse of $2+\sqrt{3}$ is
+40. Additive inverse of $2+\sqrt{3}$ is
 * [ ] $2-\sqrt{3}$
 * [ ] $-2+\sqrt{3}$
-* [ ] $-2-\sqrt{3}$
+* [x] $-2-\sqrt{3}$
 * [ ] $0$
 
 
-The multiplicative inverse of $\sqrt{7}$ is
+41. The multiplicative inverse of $\sqrt{7}$ is
 * [ ] $-1/\sqrt{7}$
-* [ ] $\sqrt{7}/7$
+* [x] $\sqrt{7}/7$
 * [ ] $1/7$
 * [ ] $1$
