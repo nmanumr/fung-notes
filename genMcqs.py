@@ -6,6 +6,7 @@ import re
 crnt_path = os.path.dirname(os.path.abspath(__file__))
 docs_path = os.path.join(crnt_path, 'docs')
 MCQ_RE = re.compile(r"[*]\s*\[((\s*)|[x])\]\s*(.*)")
+question_RE = re.compile(r"^[\d]+[.] ")
 header_RE = re.compile(r"^\s*(\w+):\s*([\w ]*)")
 q_num=1
 
@@ -46,6 +47,8 @@ def process_block(block):
         "options": []
     }
     text=[];
+    if not question_RE.match(block):
+        return "\n\n" +block + '\n'
     for ln in block.split('\n'):
         m = MCQ_RE.match(ln)
         if(m):
@@ -78,7 +81,7 @@ for dir in os.listdir(docs_path):
     if dir.endswith('.md'):
         continue
     for file in os.listdir(os.path.join(docs_path, dir)):
-        if file.endswith('ex.txt'):
+        if file.endswith('.txt'):
             filepath = os.path.join(docs_path, dir, file)
             q_num = 1
             process_file(filepath)

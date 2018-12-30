@@ -1,0 +1,1453 @@
+hero: NET 2 Mock Test
+heading: NET 2 Mock Test
+
+
+1. The amplitude of $z= -1$ is:
+* [ ] $90^0$
+* [ ] $0^0$
+* [x] $-90^0$
+* [ ] $30^0$
+
+
+2. The polar form of $-1+\sqrt{3}$  i is :
+* [x] $2(\cos120^o-i\sin120^o)$
+* [ ] $2(-\sin3^o+i\cos30^o)$
+* [ ] $2(\cos60^o+i\sin60^o)$
+* [ ] All are correct
+
+
+3. $\left(\frac{1-i}{1+i}\right)^{100}=x+iy$ then
+* [x] $x=1$, $y=0$
+* [ ] $x=-1$, $y=2$
+* [ ] $x=0$, $y=1$
+* [ ] $x=2$, $y=-1$
+
+
+4. Real component of $(4 - i)^2$ is:
+* [ ] $7$
+* [ ] $8$
+* [x] $15$
+* [ ] $23$
+
+
+5. The cube root of unity
+* [ ] are collinear
+* [ ] An equaliteral triangle
+* [x] lies on circle $|z|=1$
+* [ ] Both A & C
+
+
+6. Let z be a complex number, if  $n=\frac{1}{2}$ ,$\theta=90^o$ then
+* [ ] $z=\sqrt{2}(1+i)$
+* [ ] $z=(1-i)/2$
+* [ ] $z=(1+i)/2$
+* [x] $z=\frac{1+i}{\sqrt{2}}$
+
+
+7. $(-1+\sqrt{-3})^4+(-1-\sqrt{-3})^4=$
+* [x] $-16$
+* [ ] $16$
+* [ ] $4$
+* [ ] $-4$
+
+
+8. Which of the following statement is true?
+
+* Every Complex number is real number
+* Every real number is Complex Number
+
+* [ ] I
+* [x] II
+* [ ] Both I & II
+* [ ] Neither I nor II
+
+
+9. The number of finite sets which are closed under addition
+* [x] 1
+* [ ] $n$
+* [ ] 2
+* [ ] 0
+
+
+10. Which of following is regarded as "Pure Complex Number"?
+
+* Imaginary Number
+* Real Number
+
+* [x] A
+* [ ] B
+* [ ] Neither A nor B
+* [ ] Both A & B
+
+
+11. If $A$ has $3$ elements and $B$ has $6$ elements, then minimum number of elements in $A\cup B$  is:
+* [ ] $3$
+* [x] $6$
+* [ ] $9$
+* [ ] $18$
+
+
+12. The number of all possible proper subsets of $\{2,3,5\}$ is:
+* [ ] $3$
+* [ ] $9$
+* [x] $7$
+* [ ] $8$
+
+
+13. If $A\cup B=B\cup C$ then
+* [x] $B=C$
+* [ ] $B\subseteq A$
+* [ ] $A\subseteq B$
+* [ ] None of these
+
+
+14. The only group under addition is
+* [ ] $\{1\}$
+* [x] $\{0\}$
+* [ ] $\{e\}$
+* [ ] $\phi$
+
+
+15. ~$B\to$ ~$A$ is the inverse of:
+* [ ] $A\to B$
+* [x] $B\to A$
+* [ ] ~ $A\to B$
+* [ ] ~$A\to$ ~$B$
+
+
+16. Let $A$ be a square matrix , $|A^{-1}| =$
+* [ ] $|A|$
+* [ ] $\frac{Adj A}{A}$
+* [x] $1/|A|$
+* [ ] None of these
+
+
+17. The matrix $$ A = \begin{bmatrix}   0 & 0 \\\\   0 & 1+i \end{bmatrix} $$
+* [ ] Hermition
+* [ ] Skew-Hermitian
+* [ ] Skew-Symmetric
+* [x] Symmetric
+
+
+18. If the matrices $A$ and $B$ have the orders $2\times3$ and $5\times2$ respectively, then the order of $BA$ is:
+* [ ] $3\times 5$
+* [x] $5\times 3$
+* [ ] $2\times 2$
+* [ ] Not defined
+
+
+19. Diagonal Matrix can never be:
+* [ ] Symmetric
+* [x] Skew-Symmetric
+* [ ] Scalar
+* [ ] All of these
+
+
+20. If $A$ be a matrix of order $2\times2$ as:
+$$  \begin{bmatrix}   1 & 2 \\\\   4 & 5 \end{bmatrix} $$
+then $A_{22}$= 
+* [ ] $-1$
+* [x] $1$
+* [ ] $5$
+* [ ] $-3$
+
+
+21. If $\alpha$ and $\beta$ are roots of $x^2-6x+k=0$ and $\alpha^2+ \beta^2=30$ , then find value of $k$ is
+* [ ] $6$
+* [x] $3$
+* [ ] $36$
+* [ ] $-3$
+
+
+22. The cube root of $-64$ are
+* [ ] $-4$, $-4w^2$, $-4w^8$
+* [x] $-4w^3$, $-4w^{16}$, $-4w^2$
+* [ ] $-4w^8$ , $4(1+w)$, $4(1+w^2)$
+* [ ] $-3$, $-3+w$, $-3+w^2$
+
+
+23. The ratio of the sum and product of roots of $7x^2-12x+18=0$ is
+* [ ] $7:12$
+* [ ] $3:2$
+* [x] $2:3$
+* [ ] $7:18$
+
+
+24. The quadratic equation whose roots are reciprocal of the roots of equation  $3x^2-20x+17=0$ is
+* [ ] $20x^2-17x+3=0$
+* [ ] $20x^2+17x-3=0$
+* [x] $17x^2-20x+3=0$
+* [ ] $17x^2+20x+3=0$
+
+
+25. $\frac{x}{2}$ is an/a:
+* [ ] proper fraction
+* [ ] improper fraction
+* [x] not a fraction
+* [ ] relation
+
+
+26. A sequence the reciprocal of whose terms form again same type of sequence is:
+* [ ] A.P
+* [x] H.P
+* [ ] G.P
+* [ ] A.G.P
+
+
+27. If $y= \frac{2}{3}x + \frac{4}{9}x^2 + \frac{8}{27}x^3+$.... then
+* [ ] $x=\frac{2y}{2(1+y)}$
+* [ ] $x=\frac{y-1}{2y}$
+* [x] $x=\frac{3y}{2(1+y)}$
+* [ ] $x=2\frac{y-1}{y}$
+
+
+28. $a^2$, $b^2$, $c^2$ are in G.P if:
+* [ ] $a=b$
+* [ ] $b=c$
+* [x] $b^2=ac$
+* [ ] $b^2=a^2c^2$
+
+
+29. Two A.Ms between $5$ and $11$ are:
+* [ ] $7$, $8$
+* [x] $7$, $9$
+* [ ] $6$, $8$
+* [ ] $6.5$, $8.5$
+
+
+30. Sum of the series $0.2 + 0.02 + 0.002$ … up to infinite terms is:
+* [ ] $1/3$
+* [ ] $1/6$
+* [x] $2/9$
+* [ ] $3/12$
+
+
+31. What is the G.M of $32$ and $64$?
+* [ ] $48$
+* [x] $45.12$
+* [ ] $-48$
+* [ ] $-45.12$
+
+
+32. Number containing three digits, repetition NOT allowed are:
+* [ ] $720$
+* [ ] $999$
+* [x] $648$
+* [ ] $600$
+
+
+33. The number of squares formed on Chess board is
+* [ ] $284$
+* [x] $204$
+* [ ] $1296$
+* [ ] $100$
+
+
+34. If coin is tossed $6$ times , then probability of getting at least once head
+* [ ] $7/64$
+* [x] $63/64$
+* [ ] $31/32$
+* [ ] None of these
+
+
+35. The number of permutation of $n$ different things taken $r$ at a time when repetition is allowed is:
+* [ ] $nPr$
+* [x] $n^r$
+* [ ] $nPn$
+* [ ] $r^n$
+
+
+36. If the sum of all the exponents of $(a+x)^n$ is $56$ then:
+* [ ] $n=55$
+* [ ] $n=8$
+* [x] $n=7$
+* [ ] All are correct
+
+
+37. The term free of $t$ in $\frac{4t+ 5}{t}^8$ is:
+* [ ] 8th
+* [ ] 4th
+* [ ] 9th
+* [x] 5th
+
+
+38. A coin is tossed $8$ times , then probability of getting a head $5$ times is:
+* [ ] $7/16$
+* [ ] $7/128$
+* [ ] $7/64$
+* [x] $7/32$
+
+
+39. The angle between the minute hand and the other hour hand of a clock when the time is $8:30$ is
+* [ ] $80^o$
+* [x] $75^o$
+* [ ] $60^o$
+* [ ] $105^o$
+
+
+41. $1^o =$
+* [ ] $0.017268$ rad
+* [ ] $0.07145$ rad
+* [x] $0.01745$ rad
+* [ ] $0.7145$ rad
+
+
+42. The trigonometric ratio of $\frac{13\pi}{3}$ are same as that of
+* [x] $\pi/3$
+* [ ] $\pi$
+* [ ] $\pi/6$
+* [ ] $11\pi/3$
+
+
+43. The sign of $\tan 2140^o$ is
+* [ ] +ive
+* [x] -ive
+* [ ] Either +ive or -ive
+* [ ] None of these
+
+
+44. $\sec A \cdot \csc A \cdot \sin A \cdot \cos A = 1$ if
+* [ ] $\forall A \in R$
+* [ ] $A \ne (2n+1)\frac{\pi}{2}, n \in Z$
+* [x] $A \ne \frac{n\pi}{2}, n \in Z$
+* [ ] $A \ne n\pi, n \in Z$
+
+
+45. If $\sin\alpha = \cos\beta$ in any triangle, $\Delta ABC$, then:
+* [x] $\alpha+\beta=90^o$
+* [ ] $\alpha+\beta=180^o$
+* [ ] $\alpha+\beta=360^o$
+* [ ] $\alpha=\beta$
+
+
+46. $rr_1r_2r_3$=
+* [x] $\Delta^2$
+* [ ] $S$
+* [ ] $\Delta$
+* [ ] $S^2$
+
+
+47. If $\Delta ABC$, $b=\sqrt{3}$ and $c=1$, given that $\alpha=30^o$, find a
+* [x] $2$
+* [ ] $3$
+* [ ] $-1$
+* [ ] $1$
+
+
+48. If in $\Delta ABC$, $\tan A+\tan B+\tan C>0$ , then the triangle is:
+* [x] acute angled
+* [ ] obtuse angled
+* [ ] Right angled
+* [ ] Nothing can be said
+
+
+49. The ratio of sides of triangle $\Delta ABC$ is $1:\sqrt{3}:2$ hen angles are in ratio:
+* [ ] $3:5:2$
+* [ ] $1:1:2$
+* [ ] $1:\sqrt{3}:2$
+* [x] $1:2:3$
+
+
+50. The range of the function $2 \sin 7x$ is:
+* [ ] $[-1,1]$
+* [x] $[-2,2]$
+* [ ] $[-7,7]$
+* [ ] $[-7/2, 7/2]$
+
+
+51. The domain of $\tan 3x$ is:
+* [ ] $R- \{ x | x=(2n+1)\pi/2 , n\in Z\}$
+* [ ] $R- \{ x | x=(2n+1)3\pi/2 , n\in Z\}$
+* [ ] $R- \{ x | x=(2n+1)\pi/3 n\in Z\}$
+* [x] $R- \{ x | x=(2n+1)\pi/6 , n\in Z\}$
+
+
+52. Period of $\sin^7x$ is:
+* [ ] $\pi$
+* [x] $2\pi$
+* [ ] $\pi/2$
+* [ ] None of these
+
+
+53. Range of $\tan^{-1} \csc x$ is:
+* [ ] $(0,\pi)$
+* [ ] $(-\pi/2 , \pi/2)$
+* [ ] $[0,\pi]$
+* [x] None of these
+
+
+54. $\sin^{-1}x+\sin^{-1}\sqrt{1-x^2}$ is equal to:
+* [ ] $\pi/4$
+* [x] $\pi/2$
+* [ ] $\pi$
+* [ ] $2\pi$
+
+
+55. If $\tan\theta=\sqrt{3}$ , then value of $\theta$ is
+* [ ] $n\pi + \pi/6$
+* [x] $n\pi + \pi/3$
+* [ ] $2n\pi+ \pi/6$
+* [ ] $2n\pi+\pi/3$
+
+
+56. If $f(x)=\frac{5x+1}{2x+3}$  , then $f^{-1}(x)=$
+* [x] $(3x-1)/(-2x+5)$
+* [ ] $(3x+1)/(2x+5)$
+* [ ] $(5x-1)/(2x+3)$
+* [ ] $(5x+1)/(3x+2)$
+
+
+57. $\tan^{-1} \cos (\cos 6\pi/7)$
+* [ ] $\pi/7$
+* [x] $6\pi/7$
+* [ ] $8\pi/7$
+* [ ] $11\pi/7$
+
+
+58. $\lim\limits_{x\to0} \frac{\tan^{-1}x}{x}$
+* [x] $1$
+* [ ] $0$
+* [ ] Undefined
+* [ ] None of these
+
+
+59. $\lim\limits_{x\to0} \frac{\sin 3x}{\sin 5x}$
+* [ ] $5/3$
+* [x] $3/5$
+* [ ] $1$
+* [ ] None of these
+
+
+60. The function $y=ax^2+bx+c$ has a minimum value if
+* [ ] $a\ne 0$
+* [ ] $a=0$
+* [ ] $a<0$
+* [x] $a>0$
+
+
+61. $f(x)=x^x$ is minimum at
+* [x] $x=1/e$
+* [ ] $x=e$
+* [ ] $x=1/e2$
+* [ ] $x=e2$
+
+
+62. Derivative of $x^9$ w.r.t $x^2$  is:
+* [ ] $5x^9$
+* [x] $(9/2)x^7$
+* [ ] $(5/2)x^6$
+* [ ] $3x^6$
+
+
+63. If $y=\tan^{-1} (\sec \frac{x+1}{x-1}) + \tan^{-1} (\sin {x-1}{x+1})$ , then $dy/dx=$
+* [ ] $1$
+* [ ] $(x+1)/(x-1)$
+* [x] $0$
+* [ ] $(x-1)/(x+1)$
+
+
+64. Primitive of $\frac{x+4}{x+3} dx =$
+* [ ] $\ln |x+3|$
+* [ ] $4x+\ln|x+3|$
+* [x] $x+\ln|x+3|$
+* [ ] $x^2+\ln|x+3|$
+
+
+65. Integral of $|x-1| dx =$? whereas upper limit is $2$ and lower limit is $0$.
+* [ ] $-1$
+* [ ] $2$
+* [ ] $3$
+* [x] $1$
+
+
+66. The equation of a line perpendicular to a given line $ax+by+c=0$ is
+* [ ] $bx+ay-k=0 , k=\text{constant}$
+* [x] $bx-ay+k=0, k=\text{constant}$
+* [ ] $ax-by+k=0$
+* [ ] $-by-ax+k=0$
+
+
+67. The joint of $(-3,2)$ and $(4,6)$ is cut by x-axis in ratio ______ externally:
+* [ ] $2:3$
+* [ ] $1:2$
+* [x] $1:3$
+* [ ] $3:2$
+
+
+68. Equation of line having slope $3$ making x-intercept $5$ is
+* [ ] $y=3x+5$
+* [ ] $-3x+y+5=0$
+* [ ] $3x-y+5=0$
+* [x] $x-\frac{1}{3}y -5=0$
+
+
+69. A pair of lines represented by $ax^2+2hxy+by^2=0$ are imaginary if
+* [x] $h^2<ab$
+* [ ] $h^2>ab$
+* [ ] $h^2=ab$
+* [ ] $h^2\ne ab$
+
+
+70. A quadrilateral whose diagonals are always perpendicular to each other:
+* [x] square
+* [ ] Rhombus
+* [ ] Rectangle
+* [ ] Parallelogram
+
+
+71. The perpendicular distance of a line $12x+5y=7$ from the origin is:
+* [ ] $13/7$
+* [x] $7/13$
+* [ ] $13$
+* [ ] None of these
+
+
+72. The point at which is the maximum value of $3x+2y$ subject to the constraints $x+y\leq2$, $x\geq0$, $y\geq0$ is obtained is:
+* [ ] $(0,0)$
+* [ ] $(1.5,1.5)$
+* [x] $(2,0)$
+* [ ] $(0,2)$
+
+
+73. Eccentricity of Earth is:
+* [ ] $e>1$
+* [x] $0<e<1$
+* [ ] $e>1$
+* [ ] $e=0$
+
+
+74. General equation of second degree $Ax^2+By^2+Cx+Dy+E=0$ represents a circle if:
+* [ ] $A\ne B$ and both have same signs
+* [x] $A=B\ne0$
+* [ ] If either $A=0$ or $B=0$
+* [ ] $A\ne B$ and both have opposite signs
+
+
+75. Transverse axis of hyperbola $\frac{x^2}{a^2}+\frac{y^2}{b^2}=1$ is
+* [ ] $x=0$
+* [x] $y=0$
+* [ ] $x=a/e$
+* [ ] $y=a/e$
+
+
+76. Radius of the circle $13x^2+13y^2-52x+39y=0$ is:
+* [ ] $125/\sqrt{9}$
+* [ ] $31/3$
+* [ ] $15/2$
+* [x] $5/2$
+
+
+77. Which of the following is equivalent to $3x^2-x<2$?
+* [ ] $-1<x<\frac{2}{3}$
+* [x] $-\frac{2}{3} < x <1$
+* [ ] $-\frac{3}{2} <x <1$
+* [ ] $x <-\frac{2}{3}$ or $x>1$
+
+
+78. The area bounded by the x-axis and curve $y=4x-x^2$ is:
+* [x] $32/3$
+* [ ] $64/3$
+* [ ] $32$
+* [ ] $64$
+
+
+79. Unit place of $7^{84}$ is :
+* [ ] $9$
+* [ ] $7$
+* [x] $1$
+* [ ] $3$
+
+
+80. For a parabola ,$y^2=4y-4x$ , the vertex is:
+* [x] $(1,2)$
+* [ ] $(4,0)$
+* [ ] $(2,4)$
+* [ ] $(2,0)$
+
+
+81. Which one of these is the biggest?
+* [ ] $1$
+* [ ] $2\sqrt{2}$
+* [ ] $3\sqrt{3}$
+* [x] $4\sqrt{4}$
+* [ ] $\sqrt{3}$
+
+
+## Physics: (Q 81-100)
+
+
+82. Which pair has the same dimension?
+* [ ] Work and Power
+* [ ] Force and Torque
+* [x] Work and Torque
+* [ ] Torque and Power
+
+
+83. If $x_1= 10.5\pm0.1 cm$ and $x_2=26.8\pm0.1 cm$ . then $x_2-x_1$ is given by:
+* [ ] $16.3\pm0.1 cm$
+* [ ] $16.3\pm0.2 cm^3$
+* [ ] $16.3\pm0.5 cm$
+* [x] $16.3\pm0.2 cm$
+
+
+84. Jiffy is unit of
+* [x] Time
+* [ ] Distance
+* [ ] Mass
+* [ ] Current
+
+
+85. The percentage errors in the measurement of mass and speed are $2$% and $3$% respectively. The maximum error in the calculation of K.E will be:
+* [ ] $1$%
+* [ ] $5$%
+* [x] $8$%
+* [ ] $11$%
+
+
+86. Volume of sphere having radius $19 cm$ is
+* [ ] $20579.53 cm^3$
+* [x] $28716.34 cm^3$
+* [ ] $0.03 cm^3$
+* [ ] $0.08 cm^3$
+
+
+87. What are dimensions of $a$ and $b$ in $F= at+at^2$ ?
+* [ ] $a=kgms^{-3},b=kgms^{-3}$
+* [x] $a=kgms^{-3},b=kgms^{-4}$
+* [ ] $a=kgm^2s^{-3},b=kgm^1s^{-4}$
+* [ ] $a=kg^2m^2s^{-3},b=kgms^{-4}$
+
+
+88. Two vectors are of magnitude $50$ and $31$, the resultant might be:
+* [ ] $82$
+* [ ] $15$
+* [x] $78$
+* [ ] $91$
+
+
+89. The vector  $1/\sqrt{2}\hat{i} + 1/\sqrt{2}\hat{j}$ is a
+* [ ] Null vector
+* [x] Unit vector
+* [ ] Vector of magnitude $\sqrt{2}$
+* [ ] None of these
+
+
+90. $(\hat{j}\times\hat{j})\cdot\hat{i}$
+* [ ] $1$
+* [ ] $-1$
+* [x] $0$
+* [ ] Infinite
+
+
+91. In case of projectile , what is the angle between velocity and acceleration at highest point?
+* [ ] $180^o$
+* [ ] $45^o$
+* [x] $90^o$
+* [ ] $0^o$
+
+
+92. Two fighter Plane $A$ and $B$ are taken a flight. It's directed that Fighter plane $B$ is following to fight $A$. What is the effect on the speed of pursued plane (Fighter Plane $B$) when it returns the fire whereas fighter plan $A$ opens its fire firstly?
+* [ ] Decreases
+* [x] Increases
+* [ ] Remains same
+* [ ] First increases then decreases
+
+
+93. Which of the following has no acceleration?
+* [ ] A man driving a car on busy road
+* [ ] Rock rolling down a mountain
+* [x] A luggage in flying plane
+* [ ] A car on a rough road
+
+
+94. For an angle less  _____ the height reached by projectile and range both will be less
+* [ ] $15^o$
+* [ ] $30^o$
+* [x] $45^o$
+* [ ] $60^o$
+
+
+95. Time taken by a projectile is
+* [ ] $v_i\cos\theta/g$
+* [x] $v_i\sin\theta/g$
+* [ ] $2v_i\sin\theta/g$
+* [ ] $v_i2\sin\theta/g$
+
+
+96. A book of mass $5 kg$ is placed on the table, what is the magnitude of force acting on the book?
+* [x] $49 N$
+* [ ] $5 N$
+* [ ] $14.5 N$
+* [ ] None of these
+
+
+97. When a body is falling down under the action of gravity, then direction of acceleration is:
+* [ ] Upward
+* [ ] Downward
+* [ ] Towards Right
+* [ ] Towards Left
+
+
+98. What is the power of a body if $1N$ force is acted upon a body have a constant velocity $10 m/s$?
+* [ ] $0 W$
+* [ ] $30 W$
+* [ ] $0.5 W$
+* [x] $10 W$
+
+
+99. The escape velocity of a body from the earth is $v$. If the radius of Earth contracts $1/4$th of its value. Keep the mass of earth constant. The escape velocity will become
+* [x] doubled
+* [ ] halved
+* [ ] Remained same
+* [ ] Tripled
+
+
+100. All the food you eat in a day has same energy as  ____ liter of petrol?
+* [ ] $9$
+* [ ] $3$
+* [x] $1/3$
+* [ ] $1/9$
+
+
+101. Centrifugal force is:
+* [x] Pseudo force
+* [ ] action force
+* [ ] Both A & B
+* [ ] None of these
+
+
+102. The earth revolves around the sun in one year, if the distance them is doubled then new period of revolution  will be
+* [ ] $1/2$ year
+* [x] $2\sqrt{2}$  years
+* [ ] $4$ years
+* [ ] $8$ years
+
+
+103. When a wheel, $1 m$ in diameter makes $30 \text{rev}/\text{min}$, the linear speed of point on its rim in $m/s$ is_____
+* [ ] $\pi$
+* [x] $\pi/2$
+* [ ] $130\pi$
+* [ ] $60\pi$
+
+
+104. If $T$ is to be increased $3T$, then the length of pendulum will be
+* [x] increased $9$ times
+* [ ] decreased $9$ times
+* [ ] increased $8$ times
+* [ ] decreased $10$ times
+
+
+105. If a hole is dug to the center of the Earth and a ball is dropped in it, the ball will:
+* [x] be static
+* [ ] oscillate
+* [ ] attain maximum acceleration
+* [ ] Continue its motion till the other end and stop
+
+
+106. The motion of the particle executing SHM  is given by $x=0.01 \sin 100 pit$ , where $x$ is in meter and time is in second.  The time period will be
+* [ ] $0.2$
+* [ ] $0.1$
+* [x] $0.02$
+* [ ] $0.01$
+
+
+107. Confining of a wave into one plane  is called
+* [x] Polarization
+* [ ] Depolarization
+* [ ] Transformation
+* [ ] None of these
+
+
+108. Wave fronts coming from the tube light is
+* [x] spherical
+* [ ] Cylindrical
+* [ ] plane
+* [ ] None of these
+
+
+109. Blue colored source is seen red if
+* [x] source is moving away from the observer
+* [ ] observer is moving away from the source
+* [ ] Gamma rays effect is observed.
+* [ ] None of these
+
+
+110. The speed of sound is greatest in
+* [ ] Hydrogen
+* [ ] Glass
+* [x] Steel
+* [ ] Vacuum
+
+
+111. In interference, energy _____ destroyed.
+* [ ] can be
+* [ ] may be
+* [ ] will be
+* [x] can't be
+
+
+112. Sky Appears blue due to:
+* [ ] Light Interference
+* [ ] Light Diffraction
+* [x] Light Scattering
+* [ ] Light polarization
+
+
+113. Poise is the unit of:
+* [ ] Interference
+* [ ] Pressure
+* [x] Viscosity
+* [ ] Friction
+
+
+114. An air bubble in water acts as;
+* [x] Concave lens
+* [ ] Convex lens
+* [ ] Bi convex lens
+* [ ] None of these
+
+
+115. Very sharp images are produced by which of following?
+* [ ] Using red light
+* [x] using blue light
+* [ ] when it is totally internally reflected.
+* [ ] none of the above
+
+
+116. $\gamma=1.67$ for ___ gas
+* [ ] Diatomic
+* [x] monoatomic
+* [ ] polyatomic
+* [ ] wrong value
+
+
+117. At boiling point, ___ remains constant?
+* [ ] Pressure
+* [ ] volume
+* [x] temperature
+* [ ] Both A & C
+
+
+118. Two identical conducting spheres $A$ and $B$ carry charges $Q$. They are separated by a distance much larger than  their diameters. A third identical conducting sphere $C$ carries Charge $2Q$. Sphere $C$ is first touched to $A$, then to $B$ and finally removed. As a result the electrostatic force between $A$ and $B$, which was originally $F$ becomes;
+* [ ] $F/2$
+* [x] $15F/8$
+* [ ] $5F/7$
+* [ ] $2F/5$
+
+
+119. Energy stored in Capacitor is represented by:
+* [x] $1/2 qV$
+* [ ] $1/3 qV$
+* [ ] $1/2 qV^2$
+* [ ] $1/4 qV$
+
+
+120. If an electron is moving along +ive x-axis and where $V=5x+3$ then it
+* [ ] deflect down
+* [ ] deflect up
+* [ ] speed down
+* [x] speed up
+
+
+121. Two charges are separated by distance $r$ in the presence of which of the following the force between them will be minimum?
+* [x] Distilled Water
+* [ ] Oil
+* [ ] Air
+* [ ] Vacuum
+
+
+122. When some charge is given to a soap bubble it:
+* [x] increases in size
+* [ ] decreases in size
+* [ ] remains same
+* [ ] collapses
+
+
+123. When wood is replaced by air as dielectric. Then the capacitance of capacitor
+* [ ] increases
+* [x] decreases
+* [ ] remains constant
+* [ ] None of these
+
+
+124. What is constant of proportionality in Ohm's Law:
+* [ ] $R$
+* [x] $1/R$
+* [ ] $1$
+* [ ] $V$
+
+
+125. Three resistors $R_1$,$R_2$,$R_3$ are connected in series .If $R_1>R_2>R_3$, the equivalent resistance will be:
+* [ ] less than $R_1$
+* [ ] less than $R_3$
+* [ ] equal to $R_1$
+* [x] Greater than $R_1$
+
+
+127. EEG is related to:
+* [ ] Heart
+* [x] Brain
+* [ ] Both A & B
+* [ ] None of these
+
+
+128. The brightness of the spot on the screen is controlled by:
+* [ ] Cathod
+* [ ] anode
+* [x] grid
+* [ ] Filament
+
+
+129. Transformer can't step up:
+* [ ] A.C voltage
+* [x] D.C voltage
+* [ ] Both A & B
+* [ ] None of these
+
+
+130. If the current flow increases 100 times , then the energy stored in Inductor  will be increased to:
+* [ ] $1000$ times
+* [x] $10,000$ times
+* [ ] $100$ times
+* [ ] remain same
+
+
+131. The frequency of A.C used in Pakistan is:
+* [ ] $60 Hz$
+* [x] $50 Hz$
+* [ ] $10 Hz$
+* [ ] $30 Hz$
+
+
+132. Voltage _____ the current  in RC Circuit?
+* [ ] Leads
+* [x] Lags
+* [ ] in phase
+* [ ] None of these
+
+
+133. Which of the following material has maximum Elasticity ?
+* [ ] Iron
+* [ ] Rubber
+* [x] Steel
+* [ ] Copper
+
+
+134. Semiconductors  have conductivity order of:
+* [ ] $10^7$
+* [ ] $10^{-10}$ to $10^{-20}$
+* [x] $10^{-6}$ to $10^{-4}$
+* [ ] None of these
+
+
+135. At least how many diodes are required to convert fully A.C into D.C
+* [ ] $1$
+* [ ] $2$
+* [ ] $3$
+* [x] $4$
+
+
+136. A diode can be used as:
+* [x] Rectifier
+* [ ] Oscillator
+* [ ] Modulator
+* [ ] Amplifier
+
+
+137. Twin paradox is the consequence of:
+* [x] Time dilation
+* [ ] Mass Dilation
+* [ ] Length dilation
+* [ ] None of these
+
+
+138. Sunlight will emit the electrons when striking on which of the following
+* [ ] Plastic
+* [ ] Water
+* [ ] Wood
+* [x] Metallic object
+
+
+139. A black body is :
+* [ ] bad absorber
+* [ ] ideal radiator
+* [ ] ideal absorber
+* [x] Both B & C
+
+
+140. Rest mass energy of electron is:
+* [ ] $1.02 MeV$
+* [ ] $0.511 keV$
+* [x] $0.511 MeV$
+* [ ] $2m_oC^2$
+
+
+141. If $N_o$ is the original number of atoms of radioactive element then number of decayed atoms after two half lives is
+* [ ] $N_o/2$
+* [ ] $N_o/4$
+* [x] $3N_o/4$
+* [ ] $N_o/8$
+
+
+142. Which of the following has the highest ionizing power and least penetrating power?
+* [x] Alpha
+* [ ] Beta
+* [ ] Gamma
+* [ ] Both A & C
+
+
+## Chemistry <small>(Q 141-170)</small>
+
+
+143. Mass spectrometer can be used  to find:
+* [ ] Mass of atom
+* [ ] Mass of ion
+* [ ] charge to mass ratio of an atom
+* [x] charge to mass ratio of an ion
+
+
+144. The mass of one mole of electron is:
+* [ ] $1.008 mg$
+* [x] $0.55 mg$
+* [ ] $0.184 mg$
+* [ ] $1.673 mg$
+
+
+145. During the process of crystallization , the hot saturated solutions :
+* [ ] is cooled very slowly to get large sized crystals
+* [x] is cooled at a moderate rate to get medium sized crystals
+* [ ] is evaporated to get the crystals  of the product
+* [ ] is mixed with an immiscible liquid to get the pure the crystals of the product
+
+
+146. A real gas obeying Van der Waals equation will resemble ideal gas if:
+* [ ] both "a" and "b" are large
+* [x] both "a" and "b" are small
+* [ ] "a" is  small and "b" is large
+* [ ] "a" is large and "b" is small
+
+
+147. The deviation of a gas from the ideal behavior is maximum at:
+* [x] $-10^oC$ and $5atm$
+* [ ] $-10^oC$ and $2atm$
+* [ ] $100^oC$ and $2atm$
+* [ ] $0^oC$ and $2atm$
+
+
+148. Which of the following is a pseduo solid?
+* [ ] $CaF_2$
+* [x] Glass
+* [ ] $NaCl$
+* [ ] All
+
+
+149. When water freezes at $0^oC$ , its density decrease due to:
+* [ ] Cubic structure of ice
+* [x] Empty spaces present in the structure of ice
+* [ ] Change of bond lengths
+* [ ] Change of bond angles
+
+
+150. Quantum number values for $2p$ orbitals are;
+* [x] $n=2 , l=1$
+* [ ] $n=1 , l=2$
+* [ ] $n=1 , l=0$
+* [ ] $n=2 , l=0$
+
+
+151. Splitting of spectral lines  when the atoms are subjected to strong electric field is called:
+* [ ] Zeeman Effect
+* [x] Stark Effect
+* [ ] Photoelectric effect
+* [ ] Compton effect
+
+
+152. In the ground state of an atom, the electron is present:
+* [ ] in the nucleus
+* [ ] in the second shell
+* [x] nearest to the nucleus
+* [ ] farthest from the nucleus.
+
+
+153. Pumping of water uphill is:
+* [ ] Spontaneous Reaction
+* [x] Non-Spontaneous Reaction
+* [ ] Exothermic Reaction
+* [ ] Endothermic Reaction
+
+
+154. Hess's Law is special case of:
+* [x] First law of Thermodynamics
+* [ ] Second Law of Thermodynamics
+* [ ] Third Law of Thermodynamics
+* [ ] Zeroth Law of Thermodynamics
+
+
+155. For a spontaneous reaction,
+* [ ] $\Delta G > 0$
+* [x] $\Delta G < 0$
+* [ ] $\Delta G = 0$
+* [ ] None of these
+
+
+156. Dipole moment of $CO_2$ is:
+* [x] zero
+* [ ] $1.61 D$
+* [ ] $0.95 D$
+* [ ] $0.12 D$
+
+
+157. Which of the following is least reactive;
+* [x] $N_2$
+* [ ] $O_2$
+* [ ] $F_2$
+* [ ] $Cl_2$
+
+
+158. Which of the following molecules are polar in nature:
+* [ ] $CO_2$
+* [x] $NF_3$
+* [ ] $BF_3$
+* [ ] $CCl_4$
+
+
+159. The catalyst used in the Heber's Process:
+* [ ] $V_2O_5$
+* [ ] $Fe$
+* [ ] $V_2O_5$ & $Pt$
+* [x] $Fe$ with $MgO$, $Al_2O_3$ and $SiO_2$
+
+
+160. The pH of rain Water at $25^oC$ is:
+* [ ] $6.5$
+* [x] $6.2$
+* [ ] $6.4$
+* [ ] $6.0$
+
+
+161. If the difference of $pKa$  values of two acids is two , then acid with small $pKa$ is stronger than other
+* [ ] $2$ times
+* [ ] $10$ times
+* [x] $100$ times
+* [ ] $1000$ times
+
+
+162. Molarity of pure water is:
+* [ ] $1$
+* [ ] $1.55$
+* [x] $55.5$
+* [ ] $6$
+
+
+163. Opal is an example of solution
+* [ ] Liquid in Liquid
+* [ ] Solid in Solid
+* [x] Solid in liquid
+* [ ] All are possible
+
+
+164. The molarity of $2$% of w/w solution of NaOH solution is:
+* [ ] $1$
+* [x] $0.5$
+* [ ] $0.05$
+* [ ] $0.25$
+
+
+165. Solubility of which salt is unaffected by change in temperature:
+* [ ] $CaCl_2$
+* [x] $NaCl$
+* [ ] $KCl$
+* [ ] All of these
+
+
+166. The anti freezing agent used in the automobile radiator is:
+* [x] Ethylene Glycol
+* [ ] Methylene glycol
+* [ ] Methyl Alcohol
+* [ ] Both A and C
+
+
+167. Oxidation number of sulphur in $S_2O_3^{2-}$ is
+* [ ] +6
+* [ ] -2
+* [x] +2
+* [ ] +4
+
+
+168. Molecular formula of starch is:
+* [x] $(C_6H_{10}O_5)_n$
+* [ ] $(C_6H_{12}O_6)n$
+* [ ] $C_nH_{2n}O_n$
+* [ ] $(C_{12}H_{22}O_{11})n$
+
+
+169. $\beta-\beta'$ dicholoethyl sulphide is commonly known as:
+* [ ] Marsh gas
+* [ ] Bio-Gas
+* [ ] Phosgene gas
+* [x] Mustard gas
+
+
+170. The benzene molecule contains:
+* [ ] Three double bonds
+* [ ] Two double bonds
+* [ ] One double bond
+* [x] Delocalized pi electron charge.
+
+
+171. Which of the following is not a nucleophile?
+* [ ] $H_2O$
+* [ ] $H_2S$
+* [x] $BF_3$
+* [ ] $NH_3$
+
+
+172. Phenol is also known as;
+* [ ] Carbonic Acid
+* [x] Carbolic Acid
+* [ ] Acrylic Acid
+* [ ] Formic Acid
+
+
+## English <small>(Q 171-190)</small>
+
+
+173. Select the correct Sentence:
+* [ ] Either he or I is visiting the fair
+* [ ] Either he or I were visiting the fair
+* [ ] Either he or I has been visiting the fair
+* [x] Either he or I am visiting the fair
+
+
+174. Select the correct Sentence:
+* [ ] Bananas are sold dozens
+* [x] Bananas are sold by dozen
+* [ ] Bananas were sold into dozen
+* [ ] Bananas will be sold the dozen
+
+
+175. Rabia is a noted dentist ______ in the region:
+* [ ] however he teaches very good also.
+* [ ] but he teaches very good in additon
+* [ ] and too a very efficient teacher
+* [x] as well as an effective teacher.
+
+
+176. The whale shark is found in equatorial deep waters around the world, it is ____ encountered by divers
+* [x] rarely
+* [ ] successfully
+* [ ] anxiously
+* [ ] constantly
+
+
+177. Analogy:
+IRON: BLACKSMITH ::
+* [ ] Cotton:Cloth
+* [ ] Food: Gourmet
+* [x] Clay: potter
+* [ ] Gold: Miser
+
+
+178. Analogy:
+KNIFE: CUT::
+* [ ] Winter: Summer
+* [ ] Sword: Sharp
+* [ ] Run:Fast
+* [x] Drill:Hole
+
+
+179. "Pacify" is most opposite to
+* [x] Excite
+* [ ] Serene
+* [ ] Coddle
+* [ ] Unhand
+
+
+180. "Candid" is most opposite to
+* [ ] Unkind
+* [ ] Blunt
+* [ ] Valid
+* [x] Dishonest
+
+
+181. Which word is most dissimilar in meaning to the word provided?
+"ANIMOSITY"
+* [x] Love
+* [ ] Plant Like
+* [ ] Barren
+* [ ] Tiny
+
+
+182. Select the word that is closest in meaning to the word provided.
+"Voracious":
+* [x] Ravenous
+* [ ] Violent
+* [ ] Voluble
+* [ ] Rambunctious
+
+
+183. Select the word that is closest in meaning to the word
+"ABSCOND"
+* [ ] Rob
+* [ ] Obscure
+* [x] Flee
+* [ ] Absolve
+
+
+184. Select the word that is closest in meaning to the word provided.
+"Auspicious"
+* [ ] Deceitful
+* [ ] Foreboding
+* [ ] Dangerous
+* [x] Favorable
+
+
+185. Select the word that is closest in meaning to the word.
+"SOPHISTICATED"
+* [x] Decent
+* [ ] Weird
+* [ ] Blunt
+* [ ] Ridicule
+
+
+186. Select the word that is closest in meaning to the word.
+"OMINOUS"
+* [x] Portentous
+* [ ] favorable
+* [ ] auspicious
+* [ ] Suspicious
+
+
+187. Select the word that is closest in meaning to the word.
+"ARODOUS"
+* [ ] Soft
+* [x] Strenuous
+* [ ] energetic
+* [ ] remarkable
+
+
+188. Guess the correct meaning of give phrase/idiom:
+"To drive home"
+* [ ] To find one's roots
+* [ ] To return to place of rest
+* [ ] Back to original position
+* [x] To emphasize
+
+
+189. Select the correct Spelling:
+* [x] Fabricate
+* [ ] Fabrecate
+* [ ] Febricate
+* [ ] Febriute
+
+
+190. Guess the correct spelling:
+* [ ] Erodite
+* [ ] Erudete
+* [x] Erudite
+* [ ] Erudote
+
+
+191. **Reading Comprehension:**
+
+I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air. The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81º water in south pacific, we could still see our frosty breath inside the command module.
+
+**Which one of the following reasons would one consider as more as possible for the warning lights to be on?**
+* [ ] There was a shower of debris.
+* [ ] Jack was yelling.
+* [x] A catastrophe was imminent.
+* [ ] The moon was looming close and big.
+
+
+192. Select the correct spelling:
+* [ ] Ommineous
+* [ ] Omineous
+* [x] Ominous
+* [ ] Omenous
+
+
+## IQ Portion <small>(Q 191-200)</small>
+
+
+193. What come next in the following sequence 
+$2, 9, 28,$ ?
+* [ ] $36$
+* [ ] $35$
+* [ ] $64$
+* [x] $65$
+
+
+194. What comes next in the sequence
+$2,3,5,7,$?
+* [x] $11$
+* [ ] $10$
+* [ ] $12$
+* [ ] $9$
+
+
+195. **Direction Finding**
+
+Ahmad goes $30m$ North, then turns right and walks $40m$, then again
+turns right and walks $20m$, then again turns right and walks $40m$. How many metres is he from his original position?
+* [ ] $0 m$
+* [x] $10 m$
+* [ ] $20 m$
+* [ ] $40 m$
+
+
+196. **Direction Finding:**
+
+Ali wants to go to the university. He starts from his home which is in the
+East and comes to a crossing. The road to the left ends in a theatre, straight ahead is the hospital. In which direction is the university?
+* [ ] East
+* [ ] West
+* [x] North
+* [ ] South
+
+
+197. Pick the odd one out
+* [ ] Valley
+* [ ] River
+* [ ] Mountain
+* [x] Tower
+
+
+198. Pick the odd one out
+* [ ] Apple
+* [x] Mango
+* [ ] Orange
+* [ ] Pear
+
+
+199. Coding/Decoding
+
+If in a certain language FASHION is coded as FOIHSAN, how is PROBLEM coded in that code?
+* [ ] PELBROM
+* [ ] PRBOELM
+* [x] PELBORM
+* [ ] RPBOELM
+
+
+200. If BAT stands for CDQ then PEN stands for?
+* [ ] OFM
+* [x] QHK
+* [ ] PAK
+* [ ] QIK
+
+
+201. Select the correct option for "?"
+$11$  $28$   $45$
+$14$  $31$   $48$
+$13$  $30$    ?
+* [ ] $50$
+* [ ] $57$
+* [x] $47$
+* [ ] $49$
+
+
+202. $A$, $B$, $C$ and $D$ are playing cards. $A$ and $B$ are partners. $D$ faces towards
+North. If $A$ faces towards West, then who faces towards South?
+* [ ] $A$
+* [ ] $B$
+* [x] $C$
+* [ ] $D$

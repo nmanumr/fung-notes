@@ -120,6 +120,8 @@ pages:
         - '02 - Directions': 'iq/ch02.md'
         - '03 - Pick Odd one Out': 'iq/ch03.md'
         - '04 - Find Missing Number': 'iq/ch04.md'
+    - Mock Tests:
+        - 'NET 2' : 'mocks/net-2.md'
 
 
 # Extensions
