@@ -228,6 +228,7 @@ Where $k$ is a constant. What unit, if any, should be used for the constant $k$?
 * [x] Ohm
 * [ ] No unit
 
+
 40. Dimension of resistance
 * [x] $[M^1L^2T^{-2}A^{-2}]$
 * [ ] $[M^1L^{-2}T^{-3}A^{-2}]$
