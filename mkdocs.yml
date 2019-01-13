@@ -33,18 +33,24 @@ google_analytics:
   - UA-69868707-1
   - auto
 
+plugins:
+    - search
+    - minify-plugin
+
 #Pages
 pages:
     - Home: 'index.md'
     - Contributing: 'contributing.md'
     - Code of Conduct: 'code_of_conduct.md'
-    - Python: 'python.md'
     - Physics:
         - 'Physics Index': 'physics/index.md'
         - '01 - Measurements': 'physics/ch01.md'
+        - 'Exercise - 01': 'physics/ch01ex.md'
         - '02 - Vectors': 'physics/ch02.md'
         - '03 - Motion & Force': 'physics/ch03.md'
+        - 'Exercise - 03': 'physics/ch03ex.md'
         - '04 - Work & Energy': 'physics/ch04.md'
+        - 'Exercise - 04': 'physics/ch04ex.md'
         - '05 - Circular Motion': 'physics/ch05.md'
         - '06 - Fluid Dynamics': 'physics/ch06.md'
         - '07 - Oscillations': 'physics/ch07.md'
@@ -136,8 +142,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
