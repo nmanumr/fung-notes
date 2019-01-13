@@ -35,7 +35,7 @@ google_analytics:
 
 plugins:
     - search
-    - minify-plugin
+    # - minify-plugin
 
 #Pages
 pages:

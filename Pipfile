@@ -9,6 +9,7 @@ name = "pypi"
 mkdocs = "*"
 pymdown-extensions = "*"
 mkdocs-material = "*"
+mkdocs-minify-plugin = "*"
 
 [requires]
 python_version = "3.6"
