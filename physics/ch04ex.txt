@@ -1,0 +1,179 @@
+hero: Exercise - 04
+heading: Practice Exercise - 04
+
+
+1. A car of mass $m$ has an engine which can deliver power $P$, what is the minimum time in which the car can be accelerated from rest to speed
+* [ ] $Mv/P$
+* [ ] $P/Mv$
+* [x] $Mv^2/2P$
+* [ ] $P/Mv^2$
+
+
+2. Under the influence of a force, an object of mass $4kg$ accelerates from $3 m/s$ to $6 m/s$ in $8s$. How much work was done on the object during this time?
+* [ ] $27J$
+* [x] $54J$
+* [ ] $72J$
+* [ ] $96J$
+
+
+3. A $500gm$ ball is thrown vertically upward with K.E of $58.8J$ the K.E is reduced to half at a height of _____m above point of projections
+* [ ] $2m$
+* [ ] $3m$
+* [ ] $5m$
+* [x] $6m$
+
+
+4. Which of the following types of force does no work on the particle when it acts on it?
+* [ ] Frictional force
+* [ ] Gravitational force
+* [ ] Elastic force
+* [x] Centripetal Force
+
+
+5. If a body of mass of $2kg$ is raised vertically through $2m$, then the work done will be
+* [ ] $38.2J$
+* [ ] $392.1J$
+* [x] $39.2J$
+* [ ] $3.92J$
+
+
+6. An elevator weighing $3.5\times 10^{6}N$ is raised to a height of $1000m$ in the absence of friction, the work done is
+* [ ] $3.5\times 10^3J$
+* [ ] $3.5\times 10^4J$
+* [ ] $3.5\times 10^6J$
+* [x] $3.5\times 10^9J$
+
+
+7. The average power and instantaneous power become equal if work is done at
+* [ ] Any rate
+* [ ] Variable rate
+* [x] Uniform rate
+* [ ] High rate
+
+
+8. The relation between horse power and watt is
+* [ ] $1hp = 546 \text{watts}$
+* [x] $hp = 746 \text{watts}$
+* [ ] $1hp = 1000 \text{watts}$
+* [ ] $1hp = 946 \text{watts}$
+
+
+9. Proton, electron, neutron and $\alpha$ particles have same momentum. Which of them have highest K.E?
+* [ ] Proton
+* [x] Electron
+* [ ] Neutron
+* [ ] $\alpha$ particle
+
+
+10. The power output of a lamp is $6W$. How much energy does the lamp give out in $2$ minutes?
+* [ ] $3J$
+* [ ] $120J$
+* [x] $720J$
+* [ ] $430J $
+
+
+11. Work done by variable force is determine by dividing
+* [ ] Force into small interval
+* [x] Displacement into small interval
+* [ ] Both force and displacement into small intervals
+* [ ] Force into small and displacement into large intervals
+
+
+12. A box of mass $m$ slides down a frictionless inclined plane of length $L$ and vertical height $h$. What is the change in its gravitational potential energy
+
+* [ ] $-mgL$
+* [x] $-mgg$
+* [ ] $-mgL/h$
+* [ ] $-mgh/L$
+
+
+13. The escape velocity of a body in gravitational field of earth independent of
+* [ ] Its mass
+* [ ] The angle at which it is thrown
+* [x] Both its mass and the angle at which it is thrown
+* [ ] Gravitational field of earth
+
+
+14. The tides raise the water in the sea roughly in a day
+* [ ] Once
+* [x] Twice
+* [ ] Four time
+* [ ] Eight time
+
+
+15. The source of geothermal energy is
+* [ ] Decay of radioactive clement in the earth
+* [ ] Compression of material in the earth
+* [ ] Residual heat of the earth
+* [x] All in a, b and c
+
+
+16. The highest value of escape velocity in solar system is for planet
+* [ ] Earth
+* [ ] Neptune
+* [x] Jupiter
+* [ ] Moon
+
+
+17. Work done by the force of friction is
+* [ ] Always positive
+* [x] Always negative
+* [ ] Positive only for small frictional force
+* [ ] Positive only for large frictional force
+
+
+18. A body of mass $2 kg$ is projected vertically upwards with a velocity of $2 m/s$. The kinetic energy of the body just before striking the ground is
+* [ ] $2$
+* [x] $4$
+* [ ] $6$
+* [ ] $8$
+
+
+19. If velocity is doubled, then
+* [ ] Momentum increases to 4 times and KE increases to 2 times
+* [ ] Momentum and KE remain same
+* [ ] Momentum increases to 2 times and KE increases constant
+* [x] Momentum increases to 2 times and KE increases to 4 times
+
+
+20. While a person lifts a book of mass $2 kg$ from the floor to a tabletop, $1.5 m$ above the floor, how much work does the gravitational force do on the book?
+* [x] $-30J$
+* [ ] $0J$
+* [ ] $-10J$
+* [ ] $-I5J$
+
+
+21. One mega watt hour is equal to
+
+* [ ] $3.6\times 10^{6}J$
+* [ ] $3.6\times 10^{12}J$
+* [ ] $3.6\times 10^{8}J$
+* [x] $3.6\times 10^{9}J$
+
+
+22. A boy holds a $40N$ weight at arm's length for $10s$. His arm is $1.5m$ above the ground. The work done by the force of the boy on the weight while he is holding it is:
+* [x] $0$
+* [ ] $90J$
+* [ ] $60J$
+* [ ] $40J$
+
+
+23. A block of mass $3kg$ slides down a frictionless inclined plane of length $6m$ and height $4m$. If the block is released from rest at the top of the incline, what is its speed at the bottom?
+* [ ] $5 m/s$
+* [ ] $8 m/s$
+* [ ] $6 m/s$
+* [x] $9 m/s$
+
+
+24. A man pulls a $100N$ crate up a frictionless $30^o$ slope $5m$ high, as shown. Assuming that the crate moves at constant speed, the work done by the man is
+* [ ] $-5000J$
+* [x] $500J$
+* [ ] $-250J$
+* [ ] $0J$
+
+
+25. The relation between the escape velocity $v_{\text{esc}}$ and orbital speed $v_o$ is given by
+* [ ] $v_{\text{esc}}=\frac{1}{2}v_o$
+* [x] $v_{\text{esc}}=\sqrt{2}v_o$
+* [ ] $v_{\text{esc}}=v_o$
+* [ ] $v_{\text{esc}}=2v_o$
