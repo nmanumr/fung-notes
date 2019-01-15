@@ -35,6 +35,9 @@ google_analytics:
 
 plugins:
     - search
+    - exclude:
+        glob:
+            - "*.txt"
     # - minify-plugin
 
 #Pages
@@ -52,6 +55,7 @@ pages:
         - '04 - Work & Energy': 'physics/ch04.md'
         - 'Exercise - 04': 'physics/ch04ex.md'
         - '05 - Circular Motion': 'physics/ch05.md'
+        - 'Exercise - 05': 'physics/ch05ex.md'
         - '06 - Fluid Dynamics': 'physics/ch06.md'
         - '07 - Oscillations': 'physics/ch07.md'
         - '08 - Waves': 'physics/ch08.md'
