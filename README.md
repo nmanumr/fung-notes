@@ -7,14 +7,16 @@ FUNG entry test notes
 You need following to get started:
 
 * [python](https://www.python.org/downloads/)
-* mkdocs (install using `pip install mkdocs mkdocs-material mkdocs-exclude`)
+* install pienv (install using `pip install pipenv`)
+* Intialize pipenv `pipenv --three` (from project root)
+* Install project dependencies `pipenv install`
 * [git](https://git-scm.com/downloads) (optional)
 
 After installing all these dependencies
 1. open terminal
 2. `git clone https://github.com/nmanumr/fung-notes.git`
 3. `cd fung-notes`
-4. `python -m mkdocs serve`
+4. `pipenv run python -m mkdocs serve`
 
 Push to github
 1. Make changes
