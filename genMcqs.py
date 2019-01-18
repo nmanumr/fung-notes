@@ -14,7 +14,7 @@ def process_file(file):
     outfile = open(file.replace('.txt', '.md'), 'w+')
     text = open(file).read()
     blocks = text.split("\n\n\n")
-    new_text_f = '%s\n\n<link rel="stylesheet" href="../../css/ex.css">\n\n# %s\n<ol class="questions">'
+    new_text_f = '%s\n\n# %s\n<ol class="questions">'
     new_text =""
 
     meta = process_meta(blocks[0])
@@ -25,7 +25,7 @@ def process_file(file):
     for block in blocks:
         new_text+=process_block(block)
 
-    new_text += '</ol><script src="../../js/mcqs.js"></script>'
+    new_text += '</ol><link rel="stylesheet" href="../../css/ex.css"><script src="../../js/mcqs.js"></script>'
     outfile.write(new_text)
 
 

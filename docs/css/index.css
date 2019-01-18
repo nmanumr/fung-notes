@@ -79,3 +79,27 @@ code{
   font-family: monospace!important;
   font-size: 100%!important;
 }
+
+article{
+  position: relative;
+}
+
+.last-changes {
+  position: absolute;
+  margin: 0px;
+  top: 50px;
+  font-size: 11.7px;
+  display: inline-block;
+  left: 2px;
+  color: #586069;
+}
+
+.last-changes>a{
+  color: inherit;
+  text-decoration: underline; 
+}
+
+.last-changes>a:hover{
+  text-decoration: underline;
+  color: inherit;
+}
