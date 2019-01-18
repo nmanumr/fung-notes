@@ -4,8 +4,19 @@ then
   echo "Please enter commit string"
   exit 1
 fi
-sed -i "s/#  disqus: 'fung-notes'/  disqus: 'fung-notes'/g" mkdocs.yml
-python -m mkdocs build
-git add site
+
+# push docs changes
+git add --all
+git commit -m "$1"
+git push
+
+# build and push gh-pages changes
+pipenv run python -m mkdocs build
+
+ls | grep -v .git | xargs rm -r
+cp -r ./site/ ../gh-pages/
+cd ../gh-pages
+
+git add --all
 git commit -m "$1 - build"
-git subtree push --prefix site origin gh-pages
+git push
