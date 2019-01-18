@@ -32,6 +32,4 @@ function getLastChangeDate(){
         })
 }
 
-(function(){
-    getLastChangeDate();
-})()
+document.addEventListener('DOMContentLoaded', getLastChangeDate, false);
