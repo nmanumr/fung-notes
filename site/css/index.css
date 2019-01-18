@@ -1,0 +1,105 @@
+.katex-display{
+  overflow-y: hidden!important;
+}
+
+.md-typeset .admonition .katex-display :first-child, .md-typeset details .katex-display :first-child {
+    margin-top: 1px;
+}
+
+.katex-display>.katex {
+    margin-top: 4px;
+    padding-bottom: 4px;
+}
+
+.katex .mord.llap>.inner{
+    top: calc(50% - 13px);
+    right: 2px;
+}
+
+.rlap .inner{
+    padding-left: 3px;
+    padding-top: 2px;
+    top: calc(50% - 14px);
+}
+
+img[src$="center"] {
+  display:block;
+  margin: 0 auto;
+}
+
+img[src$="270"] {
+  display:block;
+  margin: 0 auto;
+  transform: rotate(270deg);
+}
+
+img[src$="90"] {
+  display:block;
+  margin: 0 auto;
+  transform: rotate(90deg);
+}
+
+img[src$="180"] {
+  display:block;
+  margin: 0 auto;
+  transform: rotate(180deg);
+}
+
+button[data-md-color-accent]:hover, button[data-md-color-primary]:hover {
+    opacity: .75;
+}
+
+button[data-md-color-primary] {
+    background-color: #3f51b5;
+    width: 13rem;
+    margin-bottom: .5rem;
+    padding: 2.4rem .8rem .4rem;
+    -webkit-transition: background-color .25s,opacity .25s;
+    transition: background-color .25s,opacity .25s;
+    border-radius: .2rem;
+    color: #fff;
+    font-size: 1.28rem;
+    text-align: left;
+    cursor: pointer;
+}
+
+.ld span.katex-display {
+    display: inline;
+}
+
+td{
+  vertical-align: middle!important;
+}
+
+.md-hero__inner{
+  font-weight: 100;
+}
+
+code{
+  font-family: monospace!important;
+  font-size: 100%!important;
+}
+
+article{
+  position: relative;
+}
+
+.last-changes {
+  position: absolute;
+  margin: 0px;
+  top: 50px;
+  font-size: 11.7px;
+  display: inline-block;
+  left: 2px;
+  color: #586069;
+}
+
+.last-changes>a{
+  color: inherit;
+  text-decoration: underline; 
+}
+
+.last-changes>a:hover{
+  text-decoration: underline;
+  color: inherit;
+}
