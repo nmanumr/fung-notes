@@ -1,0 +1,226 @@
+hero: Exercise - 05
+heading: Practice Exercise - 05
+
+
+1. The rotational K.E of hoop is
+* [x] Equal to its translational K.E
+* [ ] Half than its translational K.E
+* [ ] Double than its translational K.E
+* [ ] Four times than its translational K.E
+
+
+2. The racing cars of masses $m_1$, and $m_2$ are moving in circles of radii $r_1$ and $r_2$ respectively. Their speeds are such that each makes a complete circle in the same length of time. The ratio of the angular speed of the first car to that of the second car is
+* [ ] $m_1$ : $m_2$
+* [ ] $r_1$ : $r_2$
+* [x] $1$ : $1$
+* [ ] $m_1r_1$ : $m_2r_2$
+
+
+3. The angular velocity of the minute hand of a clock is
+* [ ] $\frac{2\pi}{60} rad^{-1}$
+* [ ] $\frac{\pi}{24} rad^{-1}$
+* [x] $\frac{2\pi}{3600} rad^{-1}$
+* [ ] $\frac{\pi}{3600} rad^{-1}$
+
+
+4. If a wheel turns with constant angular speed then
+* [ ] Each point on its rim moves with constant velocity
+* [ ] Each point on its rim moves with constant acceleration
+* [ ] The angle through which the wheel turns in each second decreases as time goes on
+* [x] The wheel turns through equal angles in equal times
+
+
+5. A boy suddenly comes and sit on the circular rotating table. What will remain conserved
+* [x] Angular momentum
+* [ ] Linear velocity
+* [ ] Kinetic energy
+* [ ] None of these
+
+
+6. A wheel rotates about an axis passing through the center and perpendicular to the plane with slowly increasing angular speed. Then it has
+* [ ] Radial velocity and radial acceleration
+* [ ] Tangential velocity and radial acceleration
+* [ ] Tangential velocity and tangential acceleration
+* [x] Tangential velocity but acceleration having both components
+
+
+7. Ten seconds after an electric fan is turned on, the fan rotates at $300rev/min$. Its average angular acceleration is
+* [ ] $30 rad/s^2$
+* [x] $3.14rad/s^2$
+* [ ] $30 rev/s^2$
+* [ ] $500 rev/s^2$
+
+
+8. At the surface of the earth, an object of mass $m$ has weight $w$. If this object is transported to an altitude that's twice the radius of the earth, then, at the new location,
+* [ ] Its mass is $m/2$ and its weight is $w/2$
+* [ ] Its mass is $m/2$ and its weight is $w/4$
+* [ ] Its mass is $m$ and its weight is $w/9$
+* [x] Its mass is $m$ and its weight is $w/4$
+
+
+9. When a mass is rotated in a plane about a fixed point, its angular momentum is directed along
+* [ ] The radius
+* [ ] The tangent to the orbit
+* [ ] A line at an angle of $45^o$ to the plane of rotation
+* [x] The axis of rotation
+
+
+10. When a body moves in a circle, the angle between its linear velocity and angular velocity is always
+* [ ] $180^o$
+* [ ] $0^o$
+* [x] $90^o$
+* [ ] $45^o$
+
+
+11. An arc of length equal to the circumference of circle subtends an angle
+* [ ] $\pi$ radian
+* [x] $2\pi$ radian
+* [ ] $\pi/2$ radian
+* [ ] $4\pi$ radian
+
+
+12. A mass slides down on an inclined plane and reach the bottom with velocity $v$. if the bottom would be same mass were in term of a ring which rolls down this plane, its linear speed at the bottom would be
+* [ ] $v$
+* [x] $\frac{v}{\sqrt{2}}$
+* [ ] $\sqrt{2}v$
+* [ ] $2v$
+
+
+13. When a body is whirled in a horizontal circle by means of a string the centripetal force is supplied by
+* [ ] Mass of a body
+* [ ] Velocity of body
+* [x] Tension in the string
+* [ ] Centripetal acceleration
+
+
+14. What remains constant when the earth revolve around the sun
+* [ ] Linear momentum
+* [ ] Linear K.E
+* [ ] Angular K.E
+* [x] Angular momentum
+
+
+15. A satellite is currently orbiting Earth in a circular orbit of radius $R$. its kinetic energy is $K_1$. If the satellite is moved and enters a new circular orbit of radius $2R$, what will be its kinetic energy?
+* [ ] $\frac{K_1}{4}$
+* [x] $\frac{K_1}{2}$
+* [ ] $K_1$
+* [ ] $2K_1$
+
+
+16. A stone is whirled in a vertical circle at the end of a string. When the stone is at the highest position the tension in the string is
+* [ ] Maximum
+* [ ] Zero
+* [x] Equal to the weight of the stone
+* [ ] Less than the weight of the stone
+
+
+17. The angular speed of hour's hand of mechanical watch is _______ radian per hours
+* [x] $\pi/6$
+* [ ] $\pi/4$
+* [ ] $\pi/12$
+* [ ] $\pi/8$
+
+
+18. $\tau$ for an object rotating about a fixed axis, where $\tau$ is the net torque acting on it, $I$ is its rotational inertia, and $\alpha$ is its angular acceleration. This expression:
+* [x] Follows directly from Newton's second law
+* [ ] Is the definition of angular acceleration
+* [ ] Is the definition of rotational inertia
+* [ ] Is the definition of torque
+
+
+19. If a car moves with a uniform speed of $2m/s$ in a circle of radius $0.4m$. Its angular speed is
+* [ ] $4 rad/s$
+* [x] $5 rad/s$
+* [ ] $1.6 rad/s$
+* [ ] $2.8 m/s$
+
+
+20. The mean distance from Saturn to the sun is $9$ times greater than the mean distance from Earth to the sun. How long is a Saturn year?
+* [ ] $18$ Earth years
+* [x] $27$ Earth years
+* [ ] $81$ Earth years
+* [ ] $243$ Earth years
+
+
+21. A body moving along the circumference of a circle, complete two revolutions. If the radius of the circular path is $R$, total angular displacement covered is
+* [ ] $\pi R$
+* [ ] $2\pi R$
+* [ ] Zero
+* [x] $4\pi$
+
+
+22. A hoop rolls with Constant velocity and without sliding along level ground. Its rotational kinetic energy is:
+* [ ] Hall its translational kinetic energy
+* [ ] Twice its translational kinetic energy
+* [ ] Four times its translational kinetic energy
+* [x] The same as its translational kinetic energy
+
+
+23. Time taken by geostationary satellite to complete one rotation around earth is
+* [ ] $1$ year
+* [x] $1$ day
+* [ ] $1$ hour
+* [ ] $84$ min
+
+
+24. The direction of angular momentum is along
+* [ ] Tangent to the circle
+* [ ] Inward the radius
+* [x] Axis of rotation
+* [ ] Outward of the radius
+
+
+25. If a wheel of radius $r$ turns through an angle of $30^o$, then the distance through which any point on its rim moves is
+* [ ] $\frac{\pi}{3}r$
+* [x] $\frac{\pi}{6}r$
+* [ ] $\frac{\pi}{30}r$
+* [ ] $\frac{\pi}{180}r$
+
+
+26. In angular motion, Newton's second law of motion is
+* [ ] $F=ma$
+* [ ] $F=\Delta p/\Delta t$
+* [x] $\tau=1\alpha$
+* [ ] All of above
+
+
+27. Angular speed of second's hand of a watch in $rad/s$ is
+* [ ] $\pi$
+* [ ] $\pi/2$
+* [x] $\pi/30$
+* [ ] $\pi/180$
+
+
+28. The angle subtended by an arc equal to radius is
+* [x] $1 rad$
+* [ ] $1^o$
+* [ ] $1 rev$
+* [ ] All
+
+
+29. What is outward force acting on a mass of $10kg$ when rotating at one end of an inelastic string $10m$ long at speed of $1m/s$?
+* [x] $1N$
+* [ ] $10N$
+* [ ] $2N$
+* [ ] $100N$
+
+
+30. If we whirl a stone at the end of a string in the vertical circle, it is likely to break when the stone is
+* [ ] At the highest point
+* [x] At the lowest point
+* [ ] At any point during motion
+* [ ] At the point where gravity is not acting
+
+
+31. Global positioning system consists of how many satellites?
+* [ ] $24$ natural satellites
+* [x] $24$ artificial satellites
+* [ ] $3$ synchronous satellites
+* [ ] Both b and c
+
+
+32. A man of weight $w$ is standing on an elevator which is ascending with an acceleration $a$. The apparent weight of the man is
+* [ ] $mg$
+* [ ] $ma-mg$
+* [x] $mg+ma$
+* [ ] $mg-ma$

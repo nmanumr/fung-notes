@@ -1,8 +1,6 @@
 hero: Exercise - 01
 heading: Practice Exercise - 01
 
-<link rel="stylesheet" href="../../css/ex.css">
-
 # Practice Exercise 
 <ol class="questions"><li id="q-1"><p class="q-text" markdown="1">A nanosecond is:
 </p><div><div class="md-radio "><input id="1-0" type="radio" name="1"><label for="1-0">$10^9 s$</label></div><div class="md-radio "><input id="1-1" type="radio" name="1"><label for="1-1">$10^{-10} s$</label></div><div class="md-radio "><input id="1-2" type="radio" name="1"><label for="1-2">$10^{-1}s$</label></div><div class="md-radio correct"><input id="1-3" type="radio" name="1"><label for="1-3">$10^{-9}s$</label></div></div><div class="ans hidden">Ans: $10^{-9}s$</div></li><li id="q-2"><p class="q-text" markdown="1">The dimension of energy density is same as that of
@@ -53,4 +51,4 @@ $$ P=kl\left(\frac{L}{\lambda}\right)^2 $$
 Where $k$ is a constant. What unit, if any, should be used for the constant $k$?
 </p><div><div class="md-radio "><input id="30-0" type="radio" name="30"><label for="30-0">Volt</label></div><div class="md-radio "><input id="30-1" type="radio" name="30"><label for="30-1">Watt</label></div><div class="md-radio correct"><input id="30-2" type="radio" name="30"><label for="30-2">Ohm</label></div><div class="md-radio "><input id="30-3" type="radio" name="30"><label for="30-3">No unit</label></div></div><div class="ans hidden">Ans: Ohm</div></li><li id="q-31"><p class="q-text" markdown="1">Dimension of resistance
 
-</p><div><div class="md-radio correct"><input id="31-0" type="radio" name="31"><label for="31-0">$[M^1L^2T^{-2}A^{-2}]$</label></div><div class="md-radio "><input id="31-1" type="radio" name="31"><label for="31-1">$[M^1L^{-2}T^{-3}A^{-2}]$</label></div><div class="md-radio "><input id="31-2" type="radio" name="31"><label for="31-2">$[M^1L^2T^{-2}A^{-2}]$</label></div><div class="md-radio "><input id="31-3" type="radio" name="31"><label for="31-3">$[MT^{-2}]$</label></div></div><div class="ans hidden">Ans: $[M^1L^2T^{-2}A^{-2}]$</div></li></ol><script src="../../js/mcqs.js"></script>
+</p><div><div class="md-radio correct"><input id="31-0" type="radio" name="31"><label for="31-0">$[M^1L^2T^{-2}A^{-2}]$</label></div><div class="md-radio "><input id="31-1" type="radio" name="31"><label for="31-1">$[M^1L^{-2}T^{-3}A^{-2}]$</label></div><div class="md-radio "><input id="31-2" type="radio" name="31"><label for="31-2">$[M^1L^2T^{-2}A^{-2}]$</label></div><div class="md-radio "><input id="31-3" type="radio" name="31"><label for="31-3">$[MT^{-2}]$</label></div></div><div class="ans hidden">Ans: $[M^1L^2T^{-2}A^{-2}]$</div></li></ol><link rel="stylesheet" href="../../css/ex.css"><script src="../../js/mcqs.js"></script>

@@ -1,8 +1,6 @@
 hero: NET 2 Mock Test
 heading: NET 2 Mock Test
 
-<link rel="stylesheet" href="../../css/ex.css">
-
 # NET 2 Mock Test
 <ol class="questions"><li id="q-1"><p class="q-text" markdown="1">The amplitude of $z= -1$ is:
 </p><div><div class="md-radio "><input id="1-0" type="radio" name="1"><label for="1-0">$90^0$</label></div><div class="md-radio "><input id="1-1" type="radio" name="1"><label for="1-1">$0^0$</label></div><div class="md-radio correct"><input id="1-2" type="radio" name="1"><label for="1-2">$-90^0$</label></div><div class="md-radio "><input id="1-3" type="radio" name="1"><label for="1-3">$30^0$</label></div></div><div class="ans hidden">Ans: $-90^0$</div></li><li id="q-2"><p class="q-text" markdown="1">The polar form of $-1+\sqrt{3}$  i is :
@@ -255,4 +253,4 @@ $13$  $30$    ?
 </p><div><div class="md-radio "><input id="199-0" type="radio" name="199"><label for="199-0">$50$</label></div><div class="md-radio "><input id="199-1" type="radio" name="199"><label for="199-1">$57$</label></div><div class="md-radio correct"><input id="199-2" type="radio" name="199"><label for="199-2">$47$</label></div><div class="md-radio "><input id="199-3" type="radio" name="199"><label for="199-3">$49$</label></div></div><div class="ans hidden">Ans: $47$</div></li><li id="q-200"><p class="q-text" markdown="1">$A$, $B$, $C$ and $D$ are playing cards. $A$ and $B$ are partners. $D$ faces towards
 North. If $A$ faces towards West, then who faces towards South?
 
-</p><div><div class="md-radio "><input id="200-0" type="radio" name="200"><label for="200-0">$A$</label></div><div class="md-radio "><input id="200-1" type="radio" name="200"><label for="200-1">$B$</label></div><div class="md-radio correct"><input id="200-2" type="radio" name="200"><label for="200-2">$C$</label></div><div class="md-radio "><input id="200-3" type="radio" name="200"><label for="200-3">$D$</label></div></div><div class="ans hidden">Ans: $C$</div></li></ol><script src="../../js/mcqs.js"></script>
+</p><div><div class="md-radio "><input id="200-0" type="radio" name="200"><label for="200-0">$A$</label></div><div class="md-radio "><input id="200-1" type="radio" name="200"><label for="200-1">$B$</label></div><div class="md-radio correct"><input id="200-2" type="radio" name="200"><label for="200-2">$C$</label></div><div class="md-radio "><input id="200-3" type="radio" name="200"><label for="200-3">$D$</label></div></div><div class="ans hidden">Ans: $C$</div></li></ol><link rel="stylesheet" href="../../css/ex.css"><script src="../../js/mcqs.js"></script>
