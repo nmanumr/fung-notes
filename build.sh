@@ -13,9 +13,9 @@ git push
 # build and push gh-pages changes
 pipenv run python -m mkdocs build
 
-ls | grep -v .git | xargs rm -r
-cp -r ./site/ ../gh-pages/
 cd ../gh-pages
+ls | grep -v .git | xargs rm -r
+cp -r ../master/site/** ./
 
 git add --all
 git commit -m "$1 - build"
