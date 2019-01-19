@@ -1,1 +1,0 @@
-renderMathInElement(document.body);
