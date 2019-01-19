@@ -24,7 +24,7 @@ The whole documents is divided in 21 different chapters, listed below:
 * [ ] [04 - Work & Energy](./ch04) (In Progress)
 * [ ] [05 - Circular Motion](./ch05) (In Progress)
 * [x] [06 - Fluid Dynamics](./ch06)
-* [ ] [07 - Oscillations](./ch07) (In Progress)
+* [x] [07 - Oscillations](./ch07)
 * [x] [08 - Waves](./ch08)
 * [x] [09 - Physical Optics](./ch09)
 * [x] [10 - Optical Instruments](./ch10)
