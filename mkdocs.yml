@@ -138,6 +138,7 @@ pages:
 # Extensions
 markdown_extensions:
   - footnotes
+  - def_list
   - toc:
       permalink: true
   - pymdownx.arithmatex:
