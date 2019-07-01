@@ -36,6 +36,6 @@ The whole documents is divided in 21 different chapters, listed below:
 * [x] [16 - Alternating Current](./ch16)
 * [x] [17 - Physics of Solids](./ch17)
 * [x] [18 - Electronics](./ch18)
-* [ ] [19 - Dawn of Modern Physics](./ch19) (In progress)
+* [x] [19 - Dawn of Modern Physics](./ch19)
 * [ ] [20 - Atomic Spectra](./ch20) (In Progress)
-* [ ] [21 - Nuclear Physics](./ch21) (In progress)
+* [ ] [21 - Nuclear Physics](./ch21) (Almost done)
