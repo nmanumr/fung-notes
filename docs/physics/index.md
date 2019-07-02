@@ -38,4 +38,4 @@ The whole documents is divided in 21 different chapters, listed below:
 * [x] [18 - Electronics](./ch18)
 * [x] [19 - Dawn of Modern Physics](./ch19)
 * [ ] [20 - Atomic Spectra](./ch20) (In Progress)
-* [ ] [21 - Nuclear Physics](./ch21) (Almost done)
+* [x] [21 - Nuclear Physics](./ch21)
