@@ -12,7 +12,7 @@ My aim is to collect all the data I have about entry test & create a complete no
 
 * High quality
 * Free for every one
-* Open for every one to suggesr edit
+* Open for every one to suggest edit
 
 ## Progress
 This project is under development & below is a little bit of its progress:
